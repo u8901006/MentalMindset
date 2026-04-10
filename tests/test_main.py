@@ -54,6 +54,84 @@ def test_main_writes_markdown_and_json_files(tmp_path, monkeypatch):
     assert '"心理摘要"' in json_path.read_text(encoding="utf-8")
 
 
+def test_main_writes_daily_html_report(tmp_path, monkeypatch):
+    outputs = {
+        "markdown": "# Report",
+        "json": {
+            "subject": "Daily report",
+            "items": [{"title": "Paper A", "journal": "J"}],
+        },
+    }
+
+    captured: dict[str, object] = {}
+
+    def fake_render_daily_report_html(
+        report_date: str, payload: dict[str, object]
+    ) -> str:
+        captured["report_date"] = report_date
+        captured["payload"] = payload
+        return "<html><body>expected report</body></html>"
+
+    monkeypatch.setattr(main_module, "run_pipeline", lambda **kwargs: outputs)
+    monkeypatch.setattr(
+        main_module,
+        "render_daily_report_html",
+        fake_render_daily_report_html,
+    )
+
+    exit_code = main_module.main(["2026-04-10", "--output-dir", str(tmp_path)])
+
+    assert exit_code == 0
+    assert captured == {
+        "report_date": "2026-04-10",
+        "payload": outputs["json"],
+    }
+    assert (tmp_path / "2026-04-10.html").read_text(encoding="utf-8") == (
+        "<html><body>expected report</body></html>"
+    )
+
+
+def test_main_rebuilds_index_html(tmp_path, monkeypatch):
+    outputs = {
+        "markdown": "# Report",
+        "json": {"subject": "Daily report", "items": []},
+    }
+
+    (tmp_path / "2026-04-08.html").write_text("older", encoding="utf-8")
+    (tmp_path / "2026-04-09.html").write_text("old", encoding="utf-8")
+
+    captured: dict[str, object] = {}
+
+    def fake_render_index_html(reports: list[dict[str, str]]) -> str:
+        captured["reports"] = reports
+        return "<html><body>rebuilt index</body></html>"
+
+    monkeypatch.setattr(main_module, "run_pipeline", lambda **kwargs: outputs)
+    monkeypatch.setattr(
+        main_module,
+        "render_daily_report_html",
+        lambda report_date, payload: "<html><body>daily report</body></html>",
+    )
+    monkeypatch.setattr(main_module, "render_index_html", fake_render_index_html)
+
+    exit_code = main_module.main(["2026-04-10", "--output-dir", str(tmp_path)])
+
+    html = (tmp_path.parent / "index.html").read_text(encoding="utf-8")
+
+    assert exit_code == 0
+    assert (tmp_path / "2026-04-10.html").read_text(encoding="utf-8") == (
+        "<html><body>daily report</body></html>"
+    )
+    assert captured == {
+        "reports": [
+            {"date": "2026-04-10", "href": "reports/2026-04-10.html"},
+            {"date": "2026-04-09", "href": "reports/2026-04-09.html"},
+            {"date": "2026-04-08", "href": "reports/2026-04-08.html"},
+        ]
+    }
+    assert html == "<html><body>rebuilt index</body></html>"
+
+
 def test_main_uses_settings_to_configure_runtime_clients_and_limits(
     tmp_path, monkeypatch
 ):
