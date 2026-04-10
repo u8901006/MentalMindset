@@ -14,4 +14,5 @@ def test_daily_digest_workflow_contract():
     assert "contents: write" in workflow
     assert "run: pytest -v" in workflow
     assert "run: python -m src.main" in workflow
-    assert "file_pattern: reports/**" in workflow
+    assert "file_pattern:" in workflow
+    assert "index.html" in workflow

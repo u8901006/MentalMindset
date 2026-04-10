@@ -9,6 +9,7 @@ from typing import Any
 
 from src.config import Settings
 from src.crossref_client import enrich_with_crossref
+from src.html_renderer import render_daily_report_html, render_index_html
 from src.pubmed_client import fetch_pubmed_records, search_pubmed
 from src.pipeline import main as run_pipeline
 
@@ -20,6 +21,25 @@ DEFAULT_KEYWORD_PATH = "data/keywords/search_keywords_topics_therapy.md"
 
 def build_report_paths(output_dir: Path, report_date: str) -> tuple[Path, Path]:
     return output_dir / f"{report_date}.md", output_dir / f"{report_date}.json"
+
+
+def build_html_report_path(output_dir: Path, report_date: str) -> Path:
+    return output_dir / f"{report_date}.html"
+
+
+def build_site_index_path(site_dir: Path) -> Path:
+    return site_dir / "index.html"
+
+
+def rebuild_site_index(report_dir: Path, site_root: Path) -> None:
+    reports = [
+        {"date": path.stem, "href": f"reports/{path.name}"}
+        for path in sorted(report_dir.glob("*.html"), reverse=True)
+    ]
+    build_site_index_path(site_root).write_text(
+        render_index_html(reports),
+        encoding="utf-8",
+    )
 
 
 def write_report_outputs(
@@ -112,6 +132,14 @@ def main(argv: Sequence[str] | None = None) -> int:
         outputs["markdown"],
         outputs["json"],
     )
+    output_dir = Path(args.output_dir)
+    html_output_path = build_html_report_path(output_dir, args.report_date)
+    html_output_path.parent.mkdir(parents=True, exist_ok=True)
+    html_output_path.write_text(
+        render_daily_report_html(args.report_date, outputs["json"]),
+        encoding="utf-8",
+    )
+    rebuild_site_index(output_dir, output_dir.parent)
     return 0
 
 
