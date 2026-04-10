@@ -1,0 +1,61 @@
+{
+  "subject": "Daily research report for 2026-04-10",
+  "preview": "Phase-based versus non-phase-based psychological interventions for complex PTSD: a systematic review and meta-analysis.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 10
+  },
+  "items": [
+    {
+      "title": "Phase-based versus non-phase-based psychological interventions for complex PTSD: a systematic review and meta-analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Emotion regulation skills training as an adjunctive treatment to narrative exposure therapy for posttraumatic stress disorder (PTSD) in refugees: a pilot randomized controlled trial.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Modelling post-traumatic stress disorder-major depressive disorder comorbidity in rats: impaired α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor signalling is consistent with synergistic behavioural and cognitive deficits.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Trauma re-experiencing episodes during esketamine treatment in patients with treatment-resistant depression and comorbid PTSD: a retrospective case series.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Virtual rescripting after loss using deepfake technology in prolonged grief treatment: a study protocol for a multiple baseline design.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Prevalence, psychiatric comorbidity and treatment of multiple personality disorder in Germany: an analysis based on nationwide claims data, 2012-2021.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Stratified predictors of post-traumatic stress disorder symptom severity in healthcare versus non-healthcare students during COVID-19: safe or stuck at home?",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The role of arousal symptoms in PTSD and depression comorbidity: a longitudinal network analysis among adolescents after a natural disaster.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Buffering the impact of childhood adversity: moderated moderation effects of mindfulness and psychological capital on social functioning among women in Kerala.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "ICD-11 PTSD and CPTSD in Serbia: clinical validation of the International Trauma Questionnaire.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
