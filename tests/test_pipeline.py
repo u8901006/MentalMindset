@@ -129,3 +129,43 @@ def test_run_daily_pipeline_uses_fallback_summary_by_default_even_with_ai_env_va
     assert outputs["papers"][0]["summary"] == (
         "Paper A: Findings about treatment outcomes."
     )
+
+
+def test_run_daily_pipeline_excludes_papers_in_exclude_titles():
+    def search_client(query: str) -> list[str]:
+        return ["1", "2"]
+
+    def records_client(identifiers: list[str]) -> list[dict[str, object]]:
+        return [
+            {
+                "pmid": "1",
+                "title": "Paper A",
+                "journal": "J1",
+                "publication_types": [],
+                "abstract": "",
+            },
+            {
+                "pmid": "2",
+                "title": "Paper B",
+                "journal": "J2",
+                "publication_types": [],
+                "abstract": "",
+            },
+        ]
+
+    outputs = run_daily_pipeline(
+        report_date="2026-04-10",
+        journals=["J1"],
+        keywords=[],
+        priority_keywords=[],
+        lookback_days=7,
+        search_client=search_client,
+        records_client=records_client,
+        enrichment_client=lambda paper: paper,
+        curated_journals={"J1"},
+        exclude_titles={"paper a"},
+    )
+
+    titles = [item["title"] for item in outputs["json"]["items"]]
+    assert "Paper A" not in titles
+    assert "Paper B" in titles

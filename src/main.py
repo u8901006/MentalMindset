@@ -107,6 +107,7 @@ def main(argv: Sequence[str] | None = None) -> int:
         keyword_path=keyword_path,
         lookback_days=settings.lookback_days,
         max_selected=settings.max_selected_papers,
+        report_dir=args.output_dir,
         search_client=lambda query: search_pubmed(
             query,
             timeout_seconds=settings.request_timeout_seconds,

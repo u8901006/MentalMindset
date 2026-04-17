@@ -4,7 +4,8 @@ from dataclasses import asdict, is_dataclass
 from typing import Any, Callable, Mapping
 
 from src.crossref_client import enrich_with_crossref
-from src.deduplication import deduplicate_papers
+from src.deduplication import deduplicate_papers, normalize_title_text
+from src.history_dedup import load_recent_report_titles
 from src.input_parser import load_journal_names, load_seed_keywords
 from src.pubmed_client import fetch_pubmed_records, search_pubmed
 from src.query_builder import build_pubmed_query
@@ -55,6 +56,18 @@ def select_top_papers(papers: list[Paper], max_selected: int = 10) -> list[Paper
     return ranked[:max_selected]
 
 
+def _filter_excluded_titles(
+    papers: list[Paper], exclude_titles: set[str] | None
+) -> list[Paper]:
+    if not exclude_titles:
+        return papers
+    return [
+        p
+        for p in papers
+        if normalize_title_text(p.get("title")).lower() not in exclude_titles
+    ]
+
+
 def run_daily_pipeline(
     report_date: str,
     journals: list[str],
@@ -68,6 +81,7 @@ def run_daily_pipeline(
     summary_adapter: SummaryAdapter | None = None,
     curated_journals: set[str] | None = None,
     max_selected: int = 10,
+    exclude_titles: set[str] | None = None,
 ) -> dict[str, Any]:
     query = build_pubmed_query(journals, keywords, priority_keywords, lookback_days)
     identifiers = search_client(query)
@@ -84,8 +98,9 @@ def run_daily_pipeline(
         enriched.append(enriched_paper)
 
     deduplicated = deduplicate_papers(enriched)
+    filtered = _filter_excluded_titles(deduplicated, exclude_titles)
     ranked = rank_top_papers(
-        deduplicated,
+        filtered,
         curated_journals=curated_journals or set(journals),
         limit=max_selected,
     )
@@ -124,9 +139,18 @@ def main(
     enrichment_client: EnrichmentClient = enrich_with_crossref,
     summary_adapter: SummaryAdapter | None = None,
     max_selected: int = 10,
+    report_dir: str | None = None,
+    history_days: int = 7,
 ) -> dict[str, Any]:
     journals = load_journal_names(journal_path)
     keywords = load_seed_keywords(keyword_path)
+    exclude_titles: set[str] | None = None
+    if report_dir:
+        from pathlib import Path
+
+        exclude_titles = load_recent_report_titles(
+            Path(report_dir), report_date, days=history_days
+        )
     return run_daily_pipeline(
         report_date=report_date,
         journals=journals,
@@ -139,4 +163,5 @@ def main(
         summary_adapter=summary_adapter,
         curated_journals=set(journals),
         max_selected=max_selected,
+        exclude_titles=exclude_titles,
     )
