@@ -1,0 +1,62 @@
+{
+  "subject": "Daily research report for 2026-04-20",
+  "preview": "Sexual violence in India: Psychological impact and response strategies.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 10
+  },
+  "items": [
+    {
+      "title": "Sexual violence in India: Psychological impact and response strategies.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "The overlooked trauma: psychological violence and its impact on PTSD symptoms.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Understanding the clinical profile of Continuous Traumatic Stress Responses: insights from the adaptation of the Continuous Traumatic Stress Response Scale (CTSR) in Ukrainian military personnel.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Evaluation of the METRA + intervention on mental health and social functioning in Afghan refugee adolescents in Pakistan: a pilot study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Gender bias of the general public regarding sexual victimization: a study using case vignettes in Japan.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "How does self-compassion affect posttraumatic adaptation among lymphoma patients? A perspective based on network analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Patterns of attentional and cognitive biases in community trauma survivors: an eye tracking study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Resilience among bereaved siblings of homicide and traffic accidents in Japan.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Somatic symptoms among trauma-exposed North Korean defectors: prevalence, correlates, and implications.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Vulnerability to bullying victimization: an investigation of genetic and environmental risk factors in a twin-family study.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
