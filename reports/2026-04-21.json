@@ -1,0 +1,18 @@
+{
+  "subject": "Daily research report for 2026-04-21",
+  "preview": "No papers selected",
+  "sources": {
+    "journals": [],
+    "selected_count": 0
+  },
+  "items": [],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
