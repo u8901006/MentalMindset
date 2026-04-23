@@ -1,0 +1,33 @@
+{
+  "subject": "Daily research report for 2026-04-23",
+  "preview": "When trauma triggers craving: meta-analytic evidence for the mediating role of negative affect among trauma-exposed individuals who use substances.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "When trauma triggers craving: meta-analytic evidence for the mediating role of negative affect among trauma-exposed individuals who use substances.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Long-term stability of perceived childhood trauma in individuals with borderline personality disorder.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Displacement and associated factors of childbirth-related posttraumatic stress disorder among Ukrainian perinatal women.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
