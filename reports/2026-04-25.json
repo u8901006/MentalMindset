@@ -1,0 +1,30 @@
+{
+  "subject": "Daily research report for 2026-04-25",
+  "preview": "Establishing Clinically Significant Change Benchmarks for the Moral Injury Outcome Scale in VA Behavioral Health Settings.",
+  "sources": {
+    "journals": [
+      "Assessment",
+      "Journal of traumatic stress"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Establishing Clinically Significant Change Benchmarks for the Moral Injury Outcome Scale in VA Behavioral Health Settings.",
+      "journal": "Assessment"
+    },
+    {
+      "title": "The role of geographical proximity to the October 7th, 2023, attack on Israel: Mental health disorders and related risk factors.",
+      "journal": "Journal of traumatic stress"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
