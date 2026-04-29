@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-04-29",
+  "preview": "Compassion Focused Therapy to Address Shame and Guilt: A Case Study of a Client With Complex PTSD.",
+  "sources": {
+    "journals": [
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Compassion Focused Therapy to Address Shame and Guilt: A Case Study of a Client With Complex PTSD.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Highest Columbia-Suicide Severity Rating Scale (C-SSRS) Screener Item Endorsed by Individuals Who Attempted Suicide Within 30 Days of Pretrial Detention.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
