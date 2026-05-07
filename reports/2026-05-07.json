@@ -1,0 +1,63 @@
+{
+  "subject": "Daily research report for 2026-05-07",
+  "preview": "State of the Science: The epidemiology of posttraumatic stress disorder.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology",
+      "Journal of traumatic stress"
+    ],
+    "selected_count": 10
+  },
+  "items": [
+    {
+      "title": "State of the Science: The epidemiology of posttraumatic stress disorder.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Network-level structural alterations distinguish persistent from remitted post-traumatic stress disorder: a morphometric covariance approach.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Understanding how adverse childhood experiences influence the development of postpartum post-traumatic stress disorder: a qualitative study in China.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "'Children first?' - the conflicting roles of carers for children bereaved by suicide or homicide.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Posttraumatic stress disorder prevalence among former first responders: A systematic review and meta-analysis.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "PTSD and CPTSD amongst parents subject to child protection court proceedings: observed rates and associated demographic and clinical covariates.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Examining the utility of digital phenotyping for the prediction of intrusive experiences.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Investigating Suicidal Ideation in Iranian Individuals With Emotional Disorders Through the Lens of the Three-Step Theory.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Psychometric properties of the Arabic translation of the PTGI-SF 10-item scale in adolescents.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Psychometric properties of the Chinese version of the Posttraumatic Cognitions Inventory (PTCI) in male first responders.",
+      "journal": "Journal of traumatic stress"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
