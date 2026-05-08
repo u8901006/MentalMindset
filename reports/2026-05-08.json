@@ -1,0 +1,43 @@
+{
+  "subject": "Daily research report for 2026-05-08",
+  "preview": "Bridging symptoms of posttraumatic stress disorder, complex posttraumatic stress disorder and posttraumatic growth: a network analysis.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 5
+  },
+  "items": [
+    {
+      "title": "Bridging symptoms of posttraumatic stress disorder, complex posttraumatic stress disorder and posttraumatic growth: a network analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Comparing two posttraumatic stress disorder screening approaches to improve health outcomes in pregnant black women: a comparative effectiveness trial protocol.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The Helping Alliance Questionnaire for Children and Their Caregivers-Validation in a German Sample of Pediatric Chronic Pain Patients.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Development and initial validation of the Parent-Child War-Dialogue Scale (PACWAD).",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Validity of the Turkish version of the Short Form Expanded Posttraumatic Growth Inventory: Its relationships with psychological flexibility, sense of coherence, and meaning-based coping.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
