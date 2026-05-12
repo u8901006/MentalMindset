@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-05-12",
+  "preview": "Mindful-Compassion Art-Based Therapy for Dementia Care (MCAT-DC): A multicomponent approach to enhancing resilience in dementia family caregivers.",
+  "sources": {
+    "journals": [
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Mindful-Compassion Art-Based Therapy for Dementia Care (MCAT-DC): A multicomponent approach to enhancing resilience in dementia family caregivers.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "How did you survive this? Resilience and recovery in survivors of ecclesiastical sexual abuse: A phenomenological study.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
