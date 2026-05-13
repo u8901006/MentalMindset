@@ -1,0 +1,33 @@
+{
+  "subject": "Daily research report for 2026-05-13",
+  "preview": "Attenuating trauma- and cocaine-related intrusions by blocking memory reconsolidation with minocycline: protocol for a transdiagnostic randomized controlled trial.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "Attenuating trauma- and cocaine-related intrusions by blocking memory reconsolidation with minocycline: protocol for a transdiagnostic randomized controlled trial.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Grief modular group therapy: theoretical bases and pilot study of a new bereavement intervention programme in China.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Latent profiles of PTSD and CPTSD: the importance of emotional hypoactivation.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
