@@ -1,0 +1,45 @@
+{
+  "subject": "Daily research report for 2026-05-15",
+  "preview": "Network-level structural alterations distinguish persistent from remitted post-traumatic stress disorder: a morphometric covariance approach.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 6
+  },
+  "items": [
+    {
+      "title": "Network-level structural alterations distinguish persistent from remitted post-traumatic stress disorder: a morphometric covariance approach.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Understanding how adverse childhood experiences influence the development of postpartum post-traumatic stress disorder: a qualitative study in China.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "'Children first?' - the conflicting roles of carers for children bereaved by suicide or homicide.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "PTSD and CPTSD amongst parents subject to child protection court proceedings: observed rates and associated demographic and clinical covariates.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Examining the utility of digital phenotyping for the prediction of intrusive experiences.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Psychometric properties of the Arabic translation of the PTGI-SF 10-item scale in adolescents.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
