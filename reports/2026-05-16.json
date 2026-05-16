@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-05-16",
+  "preview": "Bridging symptoms of posttraumatic stress disorder, complex posttraumatic stress disorder and posttraumatic growth: a network analysis.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Bridging symptoms of posttraumatic stress disorder, complex posttraumatic stress disorder and posttraumatic growth: a network analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Comparing two posttraumatic stress disorder screening approaches to improve health outcomes in pregnant black women: a comparative effectiveness trial protocol.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
