@@ -1,0 +1,41 @@
+{
+  "subject": "Daily research report for 2026-05-18",
+  "preview": "Domain specificity and magnitude of cognitive-psychosocial associations in major depressive disorder: A systematic review and meta-analytic approach with multilevel sensitivity analyses.",
+  "sources": {
+    "journals": [
+      "Clinical psychology review"
+    ],
+    "selected_count": 5
+  },
+  "items": [
+    {
+      "title": "Domain specificity and magnitude of cognitive-psychosocial associations in major depressive disorder: A systematic review and meta-analytic approach with multilevel sensitivity analyses.",
+      "journal": "Clinical psychology review"
+    },
+    {
+      "title": "A systematic review and meta-analysis of cross-sectional mixture modeling applications to identify person-centered phenotypes of posttraumatic stress disorder.",
+      "journal": "Clinical psychology review"
+    },
+    {
+      "title": "Emotion dysregulation mediates the relationship between sexual and gender minority stress and psychopathology: A meta-analytic structural equation modeling approach.",
+      "journal": "Clinical psychology review"
+    },
+    {
+      "title": "Common practice elements of cognitive behavioral therapy for gaming disorder: A systematic review and expert panel evaluation.",
+      "journal": "Clinical psychology review"
+    },
+    {
+      "title": "Key components of effective contact interventions for reducing public mental health stigma: An updated meta-analysis.",
+      "journal": "Clinical psychology review"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
