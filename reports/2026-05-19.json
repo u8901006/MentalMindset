@@ -1,0 +1,45 @@
+{
+  "subject": "Daily research report for 2026-05-19",
+  "preview": "Correlates of psychological distress and posttraumatic growth in survivors of sexual violence.",
+  "sources": {
+    "journals": [
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 6
+  },
+  "items": [
+    {
+      "title": "Correlates of psychological distress and posttraumatic growth in survivors of sexual violence.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Dimensions of trauma: The relationship between daytime PTSD cluster symptomology and sleep measures.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Posttraumatic stress symptoms in the aftermath of national trauma: Moral injury, self-representation as hero, and proactive coping.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Rhythms of resilience: A pilot feasibility and acceptability study of a neuropsychologically informed conscious dance and expressive arts intervention for complex trauma survivors.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Trauma-sensitive yoga receptivity, motivators, barriers, and preferences from U.S. adults with PTSD symptoms.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Expanding access to perinatal trauma care: A dual-model evaluation of perinatal narrative exposure therapy training.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
