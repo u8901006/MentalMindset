@@ -1,0 +1,38 @@
+{
+  "subject": "Daily research report for 2026-05-20",
+  "preview": "Longitudinal associations between patterns of childhood adverse experiences and positive experiences and depression and anxiety symptom trajectories among college students.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Longitudinal associations between patterns of childhood adverse experiences and positive experiences and depression and anxiety symptom trajectories among college students.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "A critical response to Cook et al. on trauma, public policy, and the role of the US government.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Engagement With Online Sexual Trauma-Related Content Among Women Who Have Experienced Sexual Trauma.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Nation under pressure: examining widespread trauma exposure and resilience in Israel.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
