@@ -1,0 +1,33 @@
+{
+  "subject": "Daily research report for 2026-05-22",
+  "preview": "Nightmares, insomnia, and suicide within a trauma-exposed sample.",
+  "sources": {
+    "journals": [
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "Nightmares, insomnia, and suicide within a trauma-exposed sample.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "A prospective, observational program evaluation of hyperbaric oxygen therapy for veterans with posttraumatic stress disorder.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Persistence of childhood image-based sexual abuse into young adulthood: Risk factors and psychological distress.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
