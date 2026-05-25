@@ -1,0 +1,39 @@
+{
+  "subject": "Daily research report for 2026-05-25",
+  "preview": "Long-term stability of perceived childhood trauma in individuals with borderline personality disorder.",
+  "sources": {
+    "journals": [
+      "Assessment",
+      "European journal of psychotraumatology",
+      "Journal of traumatic stress"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Long-term stability of perceived childhood trauma in individuals with borderline personality disorder.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Displacement and associated factors of childbirth-related posttraumatic stress disorder among Ukrainian perinatal women.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "From therapeutic promise to evidentiary discipline: Reassessing MDMA-assisted psychotherapy for posttraumatic stress disorder.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "On the Structure of Fears of Evaluation: Testing for a General Factor and Its Validity in Bifactor Models.",
+      "journal": "Assessment"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
