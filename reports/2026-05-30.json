@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-05-30",
+  "preview": "Distinct Longitudinal Contributions of Social Anxiety and Self-Consciousness to Interpersonal Dysfunction.",
+  "sources": {
+    "journals": [
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Distinct Longitudinal Contributions of Social Anxiety and Self-Consciousness to Interpersonal Dysfunction.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
