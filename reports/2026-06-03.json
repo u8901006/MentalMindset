@@ -1,0 +1,42 @@
+{
+  "subject": "Daily research report for 2026-06-03",
+  "preview": "From trigger to response: an ecological momentary study of intrusive memory sequences in PTSD and complex PTSD.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 5
+  },
+  "items": [
+    {
+      "title": "From trigger to response: an ecological momentary study of intrusive memory sequences in PTSD and complex PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Exposure to war-related trauma and symptoms of complex posttraumatic stress disorder among children and adolescents in Gaza.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Predicting Change in Brief Treatment for BPD: The Role of Defensive Functioning and Pervasiveness in Relationship Patterns.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Threat processing and PTSD symptom progression over repeated combat deployments.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Parental perceptions of barriers to psychotherapy: a comparison between parents of children with and without reported trauma exposure.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
