@@ -1,0 +1,55 @@
+{
+  "subject": "Daily research report for 2026-06-05",
+  "preview": "A systematic review of the prevalence, risk factors, and protective factors of posttraumatic stress disorder among paramedics.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of traumatic stress",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 8
+  },
+  "items": [
+    {
+      "title": "A systematic review of the prevalence, risk factors, and protective factors of posttraumatic stress disorder among paramedics.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Commercial content moderation: Trauma exposure on the digital frontline.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Sexual orientation differences in trauma exposure and posttraumatic stress symptoms among adults in treatment for obsessive-compulsive disorder.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Adolescent predictors of post-traumatic growth during the COVID-19 pandemic: a 28-year longitudinal study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Bereaved parents' experiences of anger as a part of their grieving process: a qualitative analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Predictors of work ability among victims of severe interpersonal violence: a file-based study in Germany.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Insomnia, nightmares, and fear of sleep in trauma-affected treatment-seeking refugees and asylum seekers: Latent profiles and differences in psychopathology and postmigration living difficulties.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Understanding one First Nations community's ways of healing from historical trauma.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
