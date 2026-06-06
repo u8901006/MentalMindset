@@ -1,0 +1,51 @@
+{
+  "subject": "Daily research report for 2026-06-06",
+  "preview": "A systematic review and Meta-Analytic Gaussian Network Aggregation of anxious symptoms.",
+  "sources": {
+    "journals": [
+      "Clinical psychology review",
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 7
+  },
+  "items": [
+    {
+      "title": "A systematic review and Meta-Analytic Gaussian Network Aggregation of anxious symptoms.",
+      "journal": "Clinical psychology review"
+    },
+    {
+      "title": "Emotion regulation interventions for autistic children and adolescents: A panoramic comparison through systematic review and network meta-analysis.",
+      "journal": "Clinical psychology review"
+    },
+    {
+      "title": "Help-seeking in people with early psychosis: A systematic review of the qualitative literature and novel model of facilitators and barriers.",
+      "journal": "Clinical psychology review"
+    },
+    {
+      "title": "The Effect of Intolerance of Uncertainty on Indecisiveness in Anxiety and Obsessive-Compulsive Disorders.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Therapeutic alliance in intensive PTSD treatment with a therapist rotation model.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Psychometric Evaluation of the Norwegian Difficulties in Emotion Regulation Scale in a Multi-Site Sample of Patients With Personality Disorders and Personality Problems.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Development and Initial Validation of the Response to Suicidal Ideation Inventory (RSII).",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
