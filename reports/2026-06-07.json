@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-06-07",
+  "preview": "Sense of Coherence in the Perinatal Period: A Longitudinal Growth Mixture Modeling Analysis.",
+  "sources": {
+    "journals": [
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Sense of Coherence in the Perinatal Period: A Longitudinal Growth Mixture Modeling Analysis.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
