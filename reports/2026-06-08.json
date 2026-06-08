@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-06-08",
+  "preview": "Developing a Perspective-Taking Task for Social Anxiety.",
+  "sources": {
+    "journals": [
+      "Assessment"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Developing a Perspective-Taking Task for Social Anxiety.",
+      "journal": "Assessment"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
