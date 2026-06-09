@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-06-09",
+  "preview": "Racial microaggressions and racial traumatic stress: A path analysis of coping strategies, ethnic identity, and psychological distress among people of color.",
+  "sources": {
+    "journals": [
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Racial microaggressions and racial traumatic stress: A path analysis of coping strategies, ethnic identity, and psychological distress among people of color.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Family and community identities differentially predict psychological and immune recovery in women survivors of domestic violence.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
