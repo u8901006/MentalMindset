@@ -1,0 +1,38 @@
+{
+  "subject": "Daily research report for 2026-06-10",
+  "preview": "Role of Depression and Anxiety in Eating Disorder Symptomatology in Higher Levels of Care for Girls With Anorexia Nervosa.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Role of Depression and Anxiety in Eating Disorder Symptomatology in Higher Levels of Care for Girls With Anorexia Nervosa.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "The efficacy of EMDR therapy in adults with a severe intellectual disability and posttraumatic stress disorder.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "From research to routine care: implementation of guided digital therapy with Spring PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Living on behalf of a lost only child: a unique grief coping strategy for China's shidu parents.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
