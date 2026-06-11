@@ -1,0 +1,53 @@
+{
+  "subject": "Daily research report for 2026-06-11",
+  "preview": "'Today, I'll manage, but not all days!' Adult refugees' meaning-making of learning and coping with trauma and other emotional distress while in language training programmes.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 8
+  },
+  "items": [
+    {
+      "title": "'Today, I'll manage, but not all days!' Adult refugees' meaning-making of learning and coping with trauma and other emotional distress while in language training programmes.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "From trigger to response: an ecological momentary study of intrusive memory sequences in PTSD and complex PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "A comparison between dissociative subtypes of PTSD and CPTSD among trauma-exposed adolescents.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Exposure to war-related trauma and symptoms of complex posttraumatic stress disorder among children and adolescents in Gaza.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "How is EMDR best conducted and adapted for trauma-focused work within bipolar disorder? A Delphi study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Latent trajectories of PTSD over 12 months following road trauma and their association with recovery trajectories.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Threat processing and PTSD symptom progression over repeated combat deployments.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Parental perceptions of barriers to psychotherapy: a comparison between parents of children with and without reported trauma exposure.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
