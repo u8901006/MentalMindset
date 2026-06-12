@@ -1,0 +1,42 @@
+{
+  "subject": "Daily research report for 2026-06-12",
+  "preview": "From childhood to adult trauma and negative birth experiences: distal and proximal factors associated with childbirth-related posttraumatic stress symptoms.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 5
+  },
+  "items": [
+    {
+      "title": "From childhood to adult trauma and negative birth experiences: distal and proximal factors associated with childbirth-related posttraumatic stress symptoms.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Peritraumatic reactions during sexual assault: associations with assault characteristics and mental health.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "'Never let your enemy see you broken': cultural trauma script elements in the Republic of Georgia - an international consortium study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Supporting a partner after traumatic injury: Associations of relationship satisfaction and perceptions of partner PTSD symptoms on support experiences.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Prevalence and timing of childhood adversity: Test-retest reliability of the Adverse Childhood Experiences (ACE) Questionnaire in a mid-aged, female cohort.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
