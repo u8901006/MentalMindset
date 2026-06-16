@@ -1,0 +1,47 @@
+{
+  "subject": "Daily research report for 2026-06-16",
+  "preview": "Do subjective and objective baseline sleep disturbances predict post-traumatic stress disorder treatment response? A secondary analysis of a randomized controlled trial.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 6
+  },
+  "items": [
+    {
+      "title": "Do subjective and objective baseline sleep disturbances predict post-traumatic stress disorder treatment response? A secondary analysis of a randomized controlled trial.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Music Playlist Use in Clinical Trials of Psychedelic Assisted Psychotherapy: A Systematic Review.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Elevated rates of adverse PTSD symptom trajectories in a civilian mass-trauma cohort.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Beyond crisis: rethinking the evaluation of psychosocial interventions after mass casualty incidents.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Development and validation of a short-form (6-item) version of the clinician-administered dissociative states scale (CADSS-SF).",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Improvement of PTSD symptoms via mobile app-delivered acceptance-commitment therapy intervention: A task-state functional magnetic resonance imaging randomized controlled trial.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
