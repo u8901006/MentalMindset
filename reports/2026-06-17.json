@@ -1,0 +1,30 @@
+{
+  "subject": "Daily research report for 2026-06-17",
+  "preview": "Differentiating moral injury from posttraumatic stress disorder: Implications of the DSM-5-TR moral problems Z-code.",
+  "sources": {
+    "journals": [
+      "Assessment",
+      "Journal of traumatic stress"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Differentiating moral injury from posttraumatic stress disorder: Implications of the DSM-5-TR moral problems Z-code.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Reliability and Validity of the International Depression Questionnaire and International Anxiety Questionnaire in English- and Spanish-Speaking Samples in Chile, Mexico, and the United States.",
+      "journal": "Assessment"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
