@@ -1,0 +1,33 @@
+{
+  "subject": "Daily research report for 2026-06-18",
+  "preview": "The efficacy of EMDR therapy in adults with a severe intellectual disability and posttraumatic stress disorder.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "The efficacy of EMDR therapy in adults with a severe intellectual disability and posttraumatic stress disorder.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "From research to routine care: implementation of guided digital therapy with Spring PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Living on behalf of a lost only child: a unique grief coping strategy for China's shidu parents.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
