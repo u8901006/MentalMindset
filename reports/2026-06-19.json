@@ -1,0 +1,62 @@
+{
+  "subject": "Daily research report for 2026-06-19",
+  "preview": "'Today, I'll manage, but not all days!' Adult refugees' meaning-making of learning and coping with trauma and other emotional distress while in language training programmes.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 10
+  },
+  "items": [
+    {
+      "title": "'Today, I'll manage, but not all days!' Adult refugees' meaning-making of learning and coping with trauma and other emotional distress while in language training programmes.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "From trigger to response: an ecological momentary study of intrusive memory sequences in PTSD and complex PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "A comparison between dissociative subtypes of PTSD and CPTSD among trauma-exposed adolescents.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "How is EMDR best conducted and adapted for trauma-focused work within bipolar disorder? A Delphi study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Latent trajectories of PTSD over 12 months following road trauma and their association with recovery trajectories.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Threat processing and PTSD symptom progression over repeated combat deployments.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Improvement in mindful awareness during prolonged exposure treatment leads to reduction in posttraumatic stress disorder (PTSD) symptoms and anger expression.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Providers' receptivity and perceived barriers to implement written exposure therapy for PTSD: Qualitative provider and leader interviews across six civilian health care systems.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Brothers in arms: The interplay of unit cohesion and forgiveness in postcombat adjustment.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Ukrainian chronic traumatization: Three years after Russian full-scale invasion.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
