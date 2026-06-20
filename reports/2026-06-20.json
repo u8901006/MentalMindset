@@ -1,0 +1,47 @@
+{
+  "subject": "Daily research report for 2026-06-20",
+  "preview": "Cutting-edge developments in the assessment of posttraumatic stress disorder.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology",
+      "Journal of traumatic stress"
+    ],
+    "selected_count": 6
+  },
+  "items": [
+    {
+      "title": "Cutting-edge developments in the assessment of posttraumatic stress disorder.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Exposure to war-related trauma and symptoms of complex posttraumatic stress disorder among children and adolescents in Gaza.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "From childhood to adult trauma and negative birth experiences: distal and proximal factors associated with childbirth-related posttraumatic stress symptoms.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Peritraumatic reactions during sexual assault: associations with assault characteristics and mental health.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Familial Risk and Resilience Moderate the Association Between Intolerance of Uncertainty and Youth Suicidal Ideation.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Parental perceptions of barriers to psychotherapy: a comparison between parents of children with and without reported trauma exposure.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
