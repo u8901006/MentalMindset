@@ -1,0 +1,34 @@
+{
+  "subject": "Daily research report for 2026-06-22",
+  "preview": "A systematic review and Meta-Analytic Gaussian Network Aggregation of anxious symptoms.",
+  "sources": {
+    "journals": [
+      "Clinical psychology review",
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "A systematic review and Meta-Analytic Gaussian Network Aggregation of anxious symptoms.",
+      "journal": "Clinical psychology review"
+    },
+    {
+      "title": "Emotion regulation interventions for autistic children and adolescents: A panoramic comparison through systematic review and network meta-analysis.",
+      "journal": "Clinical psychology review"
+    },
+    {
+      "title": "Therapeutic alliance in intensive PTSD treatment with a therapist rotation model.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
