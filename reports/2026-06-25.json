@@ -1,0 +1,61 @@
+{
+  "subject": "Daily research report for 2026-06-25",
+  "preview": "Do subjective and objective baseline sleep disturbances predict post-traumatic stress disorder treatment response? A secondary analysis of a randomized controlled trial.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 10
+  },
+  "items": [
+    {
+      "title": "Do subjective and objective baseline sleep disturbances predict post-traumatic stress disorder treatment response? A secondary analysis of a randomized controlled trial.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Eye movement desensitization and reprocessing treatment for birth trauma: a scoping review.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Elevated rates of adverse PTSD symptom trajectories in a civilian mass-trauma cohort.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Mental health and psychosocial support during ongoing armed conflict: position paper of the Global Collaboration on Traumatic Stress.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Beyond crisis: rethinking the evaluation of psychosocial interventions after mass casualty incidents.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Development and validation of a short-form (6-item) version of the clinician-administered dissociative states scale (CADSS-SF).",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Effects of late-life captivity: preliminary findings following the 7 October attack.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Posttraumatic growth and depreciation among Ukrainians: a structural equation modelling approach.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Same war, different homes: mental health outcomes of displaced versus non-displaced adolescents during war.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The relationship between age of first exposure and posttraumatic symptoms: results from the global psychotrauma screen.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
