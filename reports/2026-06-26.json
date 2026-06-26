@@ -1,0 +1,39 @@
+{
+  "subject": "Daily research report for 2026-06-26",
+  "preview": "Psychological mediators of the associations between adverse and benevolent childhood experiences and posttraumatic stress disorder (PTSD) and complex PTSD: A systematic review and meta-analysis.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of traumatic stress",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Psychological mediators of the associations between adverse and benevolent childhood experiences and posttraumatic stress disorder (PTSD) and complex PTSD: A systematic review and meta-analysis.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Living on behalf of a lost only child: a unique grief coping strategy for China's shidu parents.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Exploring gendered responses to trauma: Network analysis of adjustment, sleeping, and eating disturbances during ongoing conflict.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Multidimensional resiliency factors and psychopathology after acute trauma: Results from a prospective cohort study.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
