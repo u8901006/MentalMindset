@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-06-28",
+  "preview": "From childhood to adult trauma and negative birth experiences: distal and proximal factors associated with childbirth-related posttraumatic stress symptoms.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "From childhood to adult trauma and negative birth experiences: distal and proximal factors associated with childbirth-related posttraumatic stress symptoms.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Peritraumatic reactions during sexual assault: associations with assault characteristics and mental health.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
