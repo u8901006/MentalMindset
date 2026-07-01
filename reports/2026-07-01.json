@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-07-01",
+  "preview": "International Trauma Questionnaire with 'clinical checks' (ITQ-CC): measuring PTSD and complex PTSD in a population-based study in Poland.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "International Trauma Questionnaire with 'clinical checks' (ITQ-CC): measuring PTSD and complex PTSD in a population-based study in Poland.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Negative appraisals and cognitive processing of traumatic events in migrant populations having undergone acculturation.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
