@@ -1,0 +1,37 @@
+{
+  "subject": "Daily research report for 2026-07-02",
+  "preview": "Pilot trial of THRIVE: A peer-delivered sexual and intimate partner violence prevention program for women in substance use treatment.",
+  "sources": {
+    "journals": [
+      "Journal of traumatic stress"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Pilot trial of THRIVE: A peer-delivered sexual and intimate partner violence prevention program for women in substance use treatment.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Affective responses to positive events as a pathway linking posttraumatic stress disorder symptoms to risky behaviors among South Asian Americans.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Sex-specific associations between potentially traumatic events and cardiovascular disease in middle-aged and older adults.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Trauma and posttraumatic stress among 2SLGBTQIA+ populations: Introduction to the special issue.",
+      "journal": "Journal of traumatic stress"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
