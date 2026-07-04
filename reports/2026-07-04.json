@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-07-04",
+  "preview": "Exploring Reasoning Biases Associated With Psychosis in Borderline Personality Disorder Using Self-Report and Objective Measures.",
+  "sources": {
+    "journals": [
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Exploring Reasoning Biases Associated With Psychosis in Borderline Personality Disorder Using Self-Report and Objective Measures.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
