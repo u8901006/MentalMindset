@@ -1,0 +1,37 @@
+{
+  "subject": "Daily research report for 2026-07-05",
+  "preview": "Personality Traits in Borderline Personality Disorder: A Cluster Analysis Based on the Millon Test Scores.",
+  "sources": {
+    "journals": [
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Personality Traits in Borderline Personality Disorder: A Cluster Analysis Based on the Millon Test Scores.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Single Versus Multiple Intimate Partner Violence Relationships: Current Severity of Psychological Distress Among Romantic Partners.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Profiles of Early Life Stress and Their Interaction With Proximal Stress in Early Adulthood: A Person-Centered Approach.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Psychological Distress Profiles in Women With Recurrent Pregnancy Loss During Subsequent Early Pregnancy and Their Association With Sleep Characteristics: A Latent Profile Analysis.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
