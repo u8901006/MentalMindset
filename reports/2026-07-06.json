@@ -1,0 +1,45 @@
+{
+  "subject": "Daily research report for 2026-07-06",
+  "preview": "'Today, I'll manage, but not all days!' Adult refugees' meaning-making of learning and coping with trauma and other emotional distress while in language training programmes.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 6
+  },
+  "items": [
+    {
+      "title": "'Today, I'll manage, but not all days!' Adult refugees' meaning-making of learning and coping with trauma and other emotional distress while in language training programmes.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "A comparison between dissociative subtypes of PTSD and CPTSD among trauma-exposed adolescents.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "From childhood to adult trauma and negative birth experiences: distal and proximal factors associated with childbirth-related posttraumatic stress symptoms.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "How is EMDR best conducted and adapted for trauma-focused work within bipolar disorder? A Delphi study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Latent trajectories of PTSD over 12 months following road trauma and their association with recovery trajectories.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Peritraumatic reactions during sexual assault: associations with assault characteristics and mental health.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
