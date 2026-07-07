@@ -1,0 +1,34 @@
+{
+  "subject": "Daily research report for 2026-07-07",
+  "preview": "Medical trauma in context: Recognizing and addressing medically induced posttraumatic stress disorder in adults.",
+  "sources": {
+    "journals": [
+      "Journal of traumatic stress",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "Medical trauma in context: Recognizing and addressing medically induced posttraumatic stress disorder in adults.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Parental racial identity as a resilience factor for the intergenerational transmission of race-based traumatic stress within Black American families.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Slopes of symptom change early in residential treatment of veterans with posttraumatic stress disorder.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
