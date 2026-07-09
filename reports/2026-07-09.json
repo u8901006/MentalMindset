@@ -1,0 +1,50 @@
+{
+  "subject": "Daily research report for 2026-07-09",
+  "preview": "International Trauma Questionnaire with 'clinical checks' (ITQ-CC): measuring PTSD and complex PTSD in a population-based study in Poland.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 7
+  },
+  "items": [
+    {
+      "title": "International Trauma Questionnaire with 'clinical checks' (ITQ-CC): measuring PTSD and complex PTSD in a population-based study in Poland.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Moral injury and PTSD among Ukrainians exposed to full-scale war.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Negative appraisals and cognitive processing of traumatic events in migrant populations having undergone acculturation.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Post-accident stress: strain from media and social ridicule as secondary stressors following a naval accident.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Body Image, Disordered Eating, and Psychological Functioning as Prospective Predictors of Inflexible Eating.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Struggles in providing psychosocial support services to survivors of the Kahramanmaraş earthquakes from professionals' experiences.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Well-being comparisons and mental health outcomes following loss: a two-wave longitudinal study.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
