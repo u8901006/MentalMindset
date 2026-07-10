@@ -1,0 +1,41 @@
+{
+  "subject": "Daily research report for 2026-07-10",
+  "preview": "Effects of institutional betrayal on postpartum PTSD: A longitudinal study.",
+  "sources": {
+    "journals": [
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 5
+  },
+  "items": [
+    {
+      "title": "Effects of institutional betrayal on postpartum PTSD: A longitudinal study.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Examination of psychometric properties of the Posttraumatic Stress Related Functioning Inventory, Revised (PRFI-5) in veterans.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Posttraumatic outcomes among highly sensitive persons: Examining the moderating role of adult attachment in the aftermath of collective trauma.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "The roles of paternal emotion dysregulation and maltreatment history on child emotion socialization.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Couple resilience assessment and related constructs: A systematic review.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
