@@ -1,0 +1,41 @@
+{
+  "subject": "Daily research report for 2026-07-11",
+  "preview": "Eye movement desensitization and reprocessing treatment for birth trauma: a scoping review.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 5
+  },
+  "items": [
+    {
+      "title": "Eye movement desensitization and reprocessing treatment for birth trauma: a scoping review.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Mental health and psychosocial support during ongoing armed conflict: position paper of the Global Collaboration on Traumatic Stress.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Posttraumatic growth and depreciation among Ukrainians: a structural equation modelling approach.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Same war, different homes: mental health outcomes of displaced versus non-displaced adolescents during war.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The relationship between age of first exposure and posttraumatic symptoms: results from the global psychotrauma screen.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
