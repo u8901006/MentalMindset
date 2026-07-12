@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-07-12",
+  "preview": "Firearm Access Screening in Mental Healthcare: An Exploratory Study of the Role of Provider and Client Characteristics.",
+  "sources": {
+    "journals": [
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Firearm Access Screening in Mental Healthcare: An Exploratory Study of the Role of Provider and Client Characteristics.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
