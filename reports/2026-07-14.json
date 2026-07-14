@@ -1,0 +1,38 @@
+{
+  "subject": "Daily research report for 2026-07-14",
+  "preview": "Early risk factors and six month posttraumatic stress disorder symptom severity following trauma.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Early risk factors and six month posttraumatic stress disorder symptom severity following trauma.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "\"Following their footsteps\": Active bereavement among bereaved parents as a catalyst for posttraumatic growth and the commander's role as an \"expert companion\" in the Iron Swords War.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Racial trauma and well-being among Black young adults.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Trauma-informed assessment for a trauma-pervasive age.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
