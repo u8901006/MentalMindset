@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-07-15",
+  "preview": "Latent classes of adverse childhood experiences and their associations with impulsivity and mental health among adults in Saudi Arabia.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Latent classes of adverse childhood experiences and their associations with impulsivity and mental health among adults in Saudi Arabia.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
