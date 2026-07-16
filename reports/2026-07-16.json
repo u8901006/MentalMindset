@@ -1,0 +1,62 @@
+{
+  "subject": "Daily research report for 2026-07-16",
+  "preview": "Assessment of functional impairment related to post-traumatic stress in children and adolescents: a systematic review.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 10
+  },
+  "items": [
+    {
+      "title": "Assessment of functional impairment related to post-traumatic stress in children and adolescents: a systematic review.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Psychotherapy for PTSD - a scoping review of how change during treatment has been studied.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Peer-delivered combined EMD and imagery rescripting for traumatized Chinese university students: a RCT.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Diagnostic comparisons of PTSD and complex PTSD in clinical adolescents: Detection rates and ACEs as risk factors.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Links between personality functioning and post-traumatic stress disorder symptoms: a network analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Adaption of a posttraumatic stress disorder intervention for patients who use stimulants and opioids in the opioid treatment programme setting.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Cumulative trauma exposure and cardiac autonomic stress reactivity in healthy adults.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Escalation during continuous traumatic stress: the psychological impact of wartime flare-up.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Family dynamics after sibling loss in a migration context: the experiences of Ethiopian bereaved siblings.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "From Resource Activation to Utilization: A Process-Outcome Analysis in Telephone-Based Cognitive-Behavioral Therapy for Family Caregivers of People With Dementia.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
