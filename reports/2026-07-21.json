@@ -1,0 +1,35 @@
+{
+  "subject": "Daily research report for 2026-07-21",
+  "preview": "A randomized controlled trial of a brief online intervention to reduce alcohol misuse and promote treatment initiation among veterans.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of consulting and clinical psychology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "A randomized controlled trial of a brief online intervention to reduce alcohol misuse and promote treatment initiation among veterans.",
+      "journal": "Journal of consulting and clinical psychology"
+    },
+    {
+      "title": "The salient role of childhood neglect in single and multiple suicide attempts among adult psychiatric inpatients.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Political, childhood, and adult stress in depression/anxiety: The Israeli judicial legislation as a case study.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
