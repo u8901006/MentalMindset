@@ -1,0 +1,30 @@
+{
+  "subject": "Daily research report for 2026-07-23",
+  "preview": "Latent classes of adverse childhood experiences and their associations with impulsivity and mental health among adults in Saudi Arabia.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Latent classes of adverse childhood experiences and their associations with impulsivity and mental health among adults in Saudi Arabia.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Self-Esteem and Repetitive Negative Thinking as Mediators of the Association Between Bullying and Disordered Eating.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
