@@ -1,0 +1,41 @@
+{
+  "subject": "Daily research report for 2026-07-26",
+  "preview": "Integrated treatment of posttraumatic stress disorder and substance use disorders for adolescents and youth: current evidence and future directions.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 5
+  },
+  "items": [
+    {
+      "title": "Integrated treatment of posttraumatic stress disorder and substance use disorders for adolescents and youth: current evidence and future directions.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Body dysmorphic disorder symptom severity and intimate partner violence: the role of PTSD and DSO symptom domains.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Clinicians' experiences in diagnosing and treating complex post-traumatic stress disorder in adults: a reflexive thematic analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Informant bias and the invisible symptoms in childhood trauma assessment: introducing the symptom visibility-informant bias framework.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Psychometric properties of the City Birth Trauma Scale in Black trauma-exposed women.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
