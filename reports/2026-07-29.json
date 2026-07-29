@@ -1,0 +1,42 @@
+{
+  "subject": "Daily research report for 2026-07-29",
+  "preview": "The dimensionality and somatisation correlates of ICD-11 prolonged grief disorder.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 5
+  },
+  "items": [
+    {
+      "title": "The dimensionality and somatisation correlates of ICD-11 prolonged grief disorder.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The salient role of childhood neglect in single and multiple suicide attempts among adult psychiatric inpatients.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "When Being Social Is Costly: Empathy's Role for Risk States, Acute Symptoms, and Cumulative Disease Severity of Depression.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Understanding mental health needs in Ukraine: protocol for a longitudinal survey of mental health in children and caregivers during the war in Ukraine.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Validation of the Child and Adolescent Trauma Screen-2 (CATS-2) in a Turkish clinical sample: psychometric properties across ICD-11 and DSM-5 frameworks.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
