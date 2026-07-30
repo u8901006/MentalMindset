@@ -1,0 +1,57 @@
+{
+  "subject": "Daily research report for 2026-07-30",
+  "preview": "Integrated exposure-based therapy for co-occurring post-traumatic stress and substance use among young people: a randomized controlled trial.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 9
+  },
+  "items": [
+    {
+      "title": "Integrated exposure-based therapy for co-occurring post-traumatic stress and substance use among young people: a randomized controlled trial.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Mechanisms of change in mobile app-delivered acceptance and commitment therapy for posttraumatic stress disorder in China: a secondary analysis of a randomized controlled trial.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Client and therapist experiences with the Processing of Positive Memories Technique (PPMT) in a randomized controlled trial: insights for protocol refinement.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Distinct correlates of post-traumatic stress disorder and subthreshold post-traumatic stress disorder considering a broad range of adverse experiences.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Reductions in cigarette use in a pilot intervention for opioid use disorder and PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Adverse life experiences and psychopathology trajectories in routine Cognitive Behaviour Therapy.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Evaluating the global psychotrauma screen total score using item response theory in an Italian community sample.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Post-resettlement context matters: a qualitative study of refugee parents' responses to child trauma in low-resource settings.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Social contact recovery and depressive symptoms after the pandemic lockdowns: the lasting impact of child neglect.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
