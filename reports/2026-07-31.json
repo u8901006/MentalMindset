@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-07-31",
+  "preview": "Can We Differentiate Between Self-Reported Skills and Traits? A Possible Refinement of the BESSI and Its Validity in Italian High School Students.",
+  "sources": {
+    "journals": [
+      "Assessment"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Can We Differentiate Between Self-Reported Skills and Traits? A Possible Refinement of the BESSI and Its Validity in Italian High School Students.",
+      "journal": "Assessment"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
