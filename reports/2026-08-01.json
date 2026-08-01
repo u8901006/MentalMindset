@@ -1,0 +1,38 @@
+{
+  "subject": "Daily research report for 2026-08-01",
+  "preview": "Evaluating the association between potentially morally injurious events (PMIEs) and types of psychological distress. A systematic review.",
+  "sources": {
+    "journals": [
+      "Assessment",
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Evaluating the association between potentially morally injurious events (PMIEs) and types of psychological distress. A systematic review.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The impact of intensive trauma-focused treatment on adults with PTSD and ASD traits: a pre-post intervention study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Exploring the impact of event-related and personal vulnerability characteristics on mental health after pandemic-related trauma exposure.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Interrater Reliability and Predictive Validity of the Spousal Assault Risk Assessment - Version 3 (SARA-V3).",
+      "journal": "Assessment"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
