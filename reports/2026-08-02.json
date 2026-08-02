@@ -1,0 +1,62 @@
+{
+  "subject": "Daily research report for 2026-08-02",
+  "preview": "The Effectiveness of Dialectical Behavior Therapy in Reducing Self-Directed Violence and Suicidality in Usual Care Settings: A Meta-Analysis.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 10
+  },
+  "items": [
+    {
+      "title": "The Effectiveness of Dialectical Behavior Therapy in Reducing Self-Directed Violence and Suicidality in Usual Care Settings: A Meta-Analysis.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Therapeutic intensification in post-traumatic stress disorder worldwide: where do we stand?",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "'Finding Solid Ground' in inpatient treatment for dissociative disorder patients followed by transition to outpatient treatment settings: a one-year follow-up pilot study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Reward Deficits in Co-Occurring Social Anxiety and Depression: The Roles of Anhedonia, Boredom, Loneliness, and COVID-19 Social Restriction.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Causal mediation analysis of contact with COVID-19 patients and burnout syndrome in physiotherapists in Japan: secondary analysis of a multicentre observational study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Differential linguistic patterns across Rorschach, TAT, and SCT in individuals with PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Key factors associated with the development of childbirth-related acute and posttraumatic stress symptoms: a prospective cohort study on the role of pain-related constructs.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Measures matter: assessing childhood maltreatment and emotion dysregulation in a transdiagnostic sample.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Predictors of psychological resilience among high-risk professionals: a two-year follow-up study in Dutch firefighters.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The Interactive Effects of Emotional Closeness, Positive Affect, and Perceived Positive Communication in Romantic Couples: A Daily Diary Study.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
