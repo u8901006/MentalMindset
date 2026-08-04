@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-08-04",
+  "preview": "Trauma-informed weight lifting as an adjunctive intervention for posttraumatic stress among youth in residential treatment.",
+  "sources": {
+    "journals": [
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Trauma-informed weight lifting as an adjunctive intervention for posttraumatic stress among youth in residential treatment.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
