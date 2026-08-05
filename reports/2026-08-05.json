@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-08-05",
+  "preview": "A Systematic Review of Ecological Momentary Assessment for Obsessive-Compulsive Disorder.",
+  "sources": {
+    "journals": [
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "A Systematic Review of Ecological Momentary Assessment for Obsessive-Compulsive Disorder.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Mindfulness Induction Reduces Cue-Induced Craving in Female Methamphetamine Users.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
