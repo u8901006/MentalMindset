@@ -1,0 +1,38 @@
+{
+  "subject": "Daily research report for 2026-08-09",
+  "preview": "Evaluating the association between potentially morally injurious events (PMIEs) and types of psychological distress. A systematic review.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Evaluating the association between potentially morally injurious events (PMIEs) and types of psychological distress. A systematic review.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The impact of intensive trauma-focused treatment on adults with PTSD and ASD traits: a pre-post intervention study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Exploring the impact of event-related and personal vulnerability characteristics on mental health after pandemic-related trauma exposure.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "When Therapy Goes Online: How Orientation, Experience, and Perceived Patient Openness Shape Attitudes Toward Online Therapy. A Study Based on the Unified Theory of Acceptance and Use of Technology for Therapists During the COVID-19 Pandemic.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
