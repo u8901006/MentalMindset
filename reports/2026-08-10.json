@@ -1,0 +1,49 @@
+{
+  "subject": "Daily research report for 2026-08-10",
+  "preview": "Therapeutic intensification in post-traumatic stress disorder worldwide: where do we stand?",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 7
+  },
+  "items": [
+    {
+      "title": "Therapeutic intensification in post-traumatic stress disorder worldwide: where do we stand?",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "'Finding Solid Ground' in inpatient treatment for dissociative disorder patients followed by transition to outpatient treatment settings: a one-year follow-up pilot study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Causal mediation analysis of contact with COVID-19 patients and burnout syndrome in physiotherapists in Japan: secondary analysis of a multicentre observational study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Differential linguistic patterns across Rorschach, TAT, and SCT in individuals with PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Key factors associated with the development of childbirth-related acute and posttraumatic stress symptoms: a prospective cohort study on the role of pain-related constructs.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Measures matter: assessing childhood maltreatment and emotion dysregulation in a transdiagnostic sample.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Predictors of psychological resilience among high-risk professionals: a two-year follow-up study in Dutch firefighters.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
