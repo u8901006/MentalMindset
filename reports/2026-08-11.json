@@ -1,0 +1,39 @@
+{
+  "subject": "Daily research report for 2026-08-11",
+  "preview": "Eye Movement Desensitization and Reprocessing (EMDR) for Shame Related Offense Trauma in a Justice Involved Individual Presenting With Active Suicidality and Self-Harm.",
+  "sources": {
+    "journals": [
+      "Assessment",
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Eye Movement Desensitization and Reprocessing (EMDR) for Shame Related Offense Trauma in a Justice Involved Individual Presenting With Active Suicidality and Self-Harm.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Complex PTSD symptom trajectories in trauma-exposed adolescents: a five-year longitudinal study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "From early response to post-response impact: a phenomenological study of counsellors' experiences following the 2023 Türkiye earthquakes.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Validation of the Scale of Ethnic Experience-Short Form Scores Among Asian Americans: Evidence of Measurement Invariance, Validity, and Reliability.",
+      "journal": "Assessment"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
