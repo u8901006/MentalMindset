@@ -1,0 +1,30 @@
+{
+  "subject": "Daily research report for 2026-08-12",
+  "preview": "Examining the Directional Effects of Insomnia, Anxiety, and Depression Symptoms: Results From a Longitudinal Study Conducted During the COVID-19 Pandemic.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Examining the Directional Effects of Insomnia, Anxiety, and Depression Symptoms: Results From a Longitudinal Study Conducted During the COVID-19 Pandemic.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Association between trauma exposure and mental health among adolescents with attention-deficit hyperactivity disorder.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
