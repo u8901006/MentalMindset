@@ -1,0 +1,50 @@
+{
+  "subject": "Daily research report for 2026-08-15",
+  "preview": "Mechanisms of change in mobile app-delivered acceptance and commitment therapy for posttraumatic stress disorder in China: a secondary analysis of a randomized controlled trial.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of traumatic stress"
+    ],
+    "selected_count": 7
+  },
+  "items": [
+    {
+      "title": "Mechanisms of change in mobile app-delivered acceptance and commitment therapy for posttraumatic stress disorder in China: a secondary analysis of a randomized controlled trial.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Client and therapist experiences with the Processing of Positive Memories Technique (PPMT) in a randomized controlled trial: insights for protocol refinement.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The spatial association between peritraumatic and chronic pain and its relation to posttraumatic stress disorder among trauma survivors.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Homicide at home: setting the agenda for an international collaboration to improve support for children bereaved due to family violence.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Reductions in cigarette use in a pilot intervention for opioid use disorder and PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Enhancing cognitive processing therapy via stellate ganglion blocks: A pilot randomized trial.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Evaluating the global psychotrauma screen total score using item response theory in an Italian community sample.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
