@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-08-16",
+  "preview": "Childhood emotional maltreatment and trauma-related outcomes: a systematic review and multilevel meta-analysis.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Childhood emotional maltreatment and trauma-related outcomes: a systematic review and multilevel meta-analysis.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
