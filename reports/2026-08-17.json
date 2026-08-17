@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-08-17",
+  "preview": "Evaluating the association between potentially morally injurious events (PMIEs) and types of psychological distress. A systematic review.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Evaluating the association between potentially morally injurious events (PMIEs) and types of psychological distress. A systematic review.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Exploring the impact of event-related and personal vulnerability characteristics on mental health after pandemic-related trauma exposure.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
