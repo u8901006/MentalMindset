@@ -1,0 +1,38 @@
+{
+  "subject": "Daily research report for 2026-08-18",
+  "preview": "'Finding Solid Ground' in inpatient treatment for dissociative disorder patients followed by transition to outpatient treatment settings: a one-year follow-up pilot study.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "'Finding Solid Ground' in inpatient treatment for dissociative disorder patients followed by transition to outpatient treatment settings: a one-year follow-up pilot study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Examining Motor Response Inhibition in Comorbid Trichotillomania and Attention-Deficit/Hyperactivity Disorder.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Causal mediation analysis of contact with COVID-19 patients and burnout syndrome in physiotherapists in Japan: secondary analysis of a multicentre observational study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Differential linguistic patterns across Rorschach, TAT, and SCT in individuals with PTSD.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
