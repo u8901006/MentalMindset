@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-08-20",
+  "preview": "Association between trauma exposure and mental health among adolescents with attention-deficit hyperactivity disorder.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Association between trauma exposure and mental health among adolescents with attention-deficit hyperactivity disorder.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
