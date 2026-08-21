@@ -1,0 +1,39 @@
+{
+  "subject": "Daily research report for 2026-08-21",
+  "preview": "Daily-life associations between posttraumatic stress disorder symptoms, affect, and posttrauma cognitions in the context of the processing of positive memories.",
+  "sources": {
+    "journals": [
+      "Assessment",
+      "European journal of psychotraumatology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Daily-life associations between posttraumatic stress disorder symptoms, affect, and posttrauma cognitions in the context of the processing of positive memories.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Psychometric Properties of the Self-Report Proposed Specifiers for Conduct Disorder (PSCD) Scale Among Justice-Involved Girls in Belgium.",
+      "journal": "Assessment"
+    },
+    {
+      "title": "Evaluation of a pilot implementation of clinician support for the PTSD coach mobile app in Veterans Affairs Primary Care Mental Health Integration programs.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Mental health and support profiles among children's advocacy center multidisciplinary team members working with victims of child sexual abuse material.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
