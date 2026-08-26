@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-08-26",
+  "preview": "Development and Validation of the Digital Mentalizing Questionnaire: A Multidimensional Self-Report for Online Social Networks.",
+  "sources": {
+    "journals": [
+      "Assessment"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Development and Validation of the Digital Mentalizing Questionnaire: A Multidimensional Self-Report for Online Social Networks.",
+      "journal": "Assessment"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
