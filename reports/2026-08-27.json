@@ -1,0 +1,41 @@
+{
+  "subject": "Daily research report for 2026-08-27",
+  "preview": "Exploring the shared genetic architecture between post-traumatic stress disorder (PTSD) and obstructive sleep apnea (OSA).",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 5
+  },
+  "items": [
+    {
+      "title": "Exploring the shared genetic architecture between post-traumatic stress disorder (PTSD) and obstructive sleep apnea (OSA).",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Complex PTSD symptom trajectories in trauma-exposed adolescents: a five-year longitudinal study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Linking maternal childhood maltreatment to health-related and psychosocial risk factors during pregnancy: intergenerational implications for early child development.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Post-trauma mental health in children and adolescents: phenomenology, aetiology and treatment.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "From early response to post-response impact: a phenomenological study of counsellors' experiences following the 2023 Türkiye earthquakes.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
