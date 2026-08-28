@@ -1,0 +1,35 @@
+{
+  "subject": "Daily research report for 2026-08-28",
+  "preview": "Association between trauma exposure and mental health among adolescents with attention-deficit hyperactivity disorder.",
+  "sources": {
+    "journals": [
+      "Assessment",
+      "European journal of psychotraumatology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "Association between trauma exposure and mental health among adolescents with attention-deficit hyperactivity disorder.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Development of an AI-Enabled Remote Loneliness Assessment System for Older Adults Using Behavioral and Speech Data From IoT Sensors and Smart Speakers.",
+      "journal": "Assessment"
+    },
+    {
+      "title": "A multidimensional framework of healing among lesbian, gay, bisexual, transgender, and queer (LGBTQ+) survivors of gender-based violence: Understanding components of recovery through identity-affirming strengths.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
