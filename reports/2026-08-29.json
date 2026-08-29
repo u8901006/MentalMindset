@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-08-29",
+  "preview": "Daily-life associations between posttraumatic stress disorder symptoms, affect, and posttrauma cognitions in the context of the processing of positive memories.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Daily-life associations between posttraumatic stress disorder symptoms, affect, and posttrauma cognitions in the context of the processing of positive memories.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
