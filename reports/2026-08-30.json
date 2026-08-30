@@ -1,0 +1,38 @@
+{
+  "subject": "Daily research report for 2026-08-30",
+  "preview": "The Impact of Mindfulness as a Session-Introduction on Symptoms and Alliance in Individual Cognitive-Behavioral Therapy With Children and Adolescents: A Randomized Controlled Trial.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "The Impact of Mindfulness as a Session-Introduction on Symptoms and Alliance in Individual Cognitive-Behavioral Therapy With Children and Adolescents: A Randomized Controlled Trial.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Exploring Perceived Utility of Living vs. Dying in Relation to Suicidal Ideation Over Time.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Long-term impact of childhood exposure to interparental physical violence on cancer risk in adulthood: a prospective cohort study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Reliability and Validity of the Chinese Version of the Parental Acceptance Questionnaire (6-PAQ) Among Parents of Children With or Without Hearing Loss.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
