@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-08-31",
+  "preview": "Homicide at home: setting the agenda for an international collaboration to improve support for children bereaved due to family violence.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Homicide at home: setting the agenda for an international collaboration to improve support for children bereaved due to family violence.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
