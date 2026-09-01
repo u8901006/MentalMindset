@@ -1,0 +1,45 @@
+{
+  "subject": "Daily research report for 2026-09-01",
+  "preview": "Different approaches to measuring exposure to potentially traumatic events and their relationship with symptoms of posttraumatic stress, depression, and anxiety.",
+  "sources": {
+    "journals": [
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 6
+  },
+  "items": [
+    {
+      "title": "Different approaches to measuring exposure to potentially traumatic events and their relationship with symptoms of posttraumatic stress, depression, and anxiety.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Clinical and forensic pathways in the treatment and redress of racial trauma.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Subjective life expectancy mediates the association between adverse childhood experiences and depression: A parallel process latent growth curve study.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Willingness to volunteer during continuous traumatic stress: Psychosocial adaptation profiles following the October 7 attacks in a southern Israeli city.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "\"I don't sleep until dawn\": Nighttime trauma, sensory haunting, and the fragmented psyche after bombing.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Parental burnout among military fathers: The moderating roles of unit support, marital satisfaction, and emotional regulation strategies.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
