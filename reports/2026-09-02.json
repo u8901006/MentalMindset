@@ -1,0 +1,61 @@
+{
+  "subject": "Daily research report for 2026-09-02",
+  "preview": "Online-delivered eye movement desensitization and reprocessing treatment for adults with post-traumatic stress disorder due to multiple traumas: a non-concurrent multiple baseline design.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 10
+  },
+  "items": [
+    {
+      "title": "Online-delivered eye movement desensitization and reprocessing treatment for adults with post-traumatic stress disorder due to multiple traumas: a non-concurrent multiple baseline design.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Childhood emotional maltreatment and trauma-related outcomes: a systematic review and multilevel meta-analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Effectiveness of grief interventions in underrepresented regions: a systematic review and exploratory meta-analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "A pragmatic randomized controlled trial of self-directed online writing interventions for posttraumatic stress symptoms in a real-world digital setting.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Feasibility and acceptability of skills training in affective recovery (STAR) video and TextSTAR text message program for recent sexual assault survivors.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Distinguishing prolonged grief and mental well-being after homicidal loss: a longitudinal factor analytic study in the context of a criminal trial.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Gender differences in prolonged grief: a network perspective on symptom interconnections and functional impairment.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Differential contributions of PTSD symptom clusters and their associations with resilience in traumatized individuals with a refugee background.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Evaluation of the effectiveness of EMDR therapy for children and adolescents in Ukraine during war.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Haunted by vivid 'what if' thoughts: how counterfactual thinking is associated with posttraumatic stress reactions over time.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
