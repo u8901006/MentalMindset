@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-09-03",
+  "preview": "Associations of childhood maltreatment types and timing with oxidative stress in formerly out-of-home placed young adults.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Associations of childhood maltreatment types and timing with oxidative stress in formerly out-of-home placed young adults.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Psychometric properties of the Swedish version of the PTSD checklist for DSM-5 (PCL-5) in a mixed trauma sample - examining internal consistency, convergent validity, latent structure, and screening performance.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
