@@ -1,0 +1,55 @@
+{
+  "subject": "Daily research report for 2026-09-04",
+  "preview": "A scoping review of the longitudinal association between posttraumatic stress disorder and cardiometabolic health in military populations.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of traumatic stress",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 8
+  },
+  "items": [
+    {
+      "title": "A scoping review of the longitudinal association between posttraumatic stress disorder and cardiometabolic health in military populations.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Examining veteran preferences and attitudes across intervention modalities for posttraumatic stress disorder.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Healing together: Results from a pilot trial of 3,4-Methylenedioxymethamphetamine-enhanced cognitive-behavioral conjoint therapy for posttraumatic stress disorder.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Linking maternal childhood maltreatment to health-related and psychosocial risk factors during pregnancy: intergenerational implications for early child development.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "'Family in shambles': professional perspectives on supporting families after sibling sexual abuse.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Italian International Trauma Questionnaire for Children and Adolescents: Factor structure, measurement invariance, and validity in community and high-risk samples.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "When war becomes chronic: The longitudinal relationship between coping and continuous traumatic stress.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Trauma, guilt, and mental health in Ukrainians displaced by the 2022 Russian invasion residing in the United States.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
