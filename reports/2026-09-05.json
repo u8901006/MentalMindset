@@ -1,0 +1,35 @@
+{
+  "subject": "Daily research report for 2026-09-05",
+  "preview": "Exploring the shared genetic architecture between post-traumatic stress disorder (PTSD) and obstructive sleep apnea (OSA).",
+  "sources": {
+    "journals": [
+      "Assessment",
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "Exploring the shared genetic architecture between post-traumatic stress disorder (PTSD) and obstructive sleep apnea (OSA).",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Connected to Others and Kind to Self: Social Connection and Self-Affiliation Change in Open-Ended Psychotherapy.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Measuring Trait-Level Overcontrol: Does the Measurement Fit the Theory?",
+      "journal": "Assessment"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
