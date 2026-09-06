@@ -1,0 +1,38 @@
+{
+  "subject": "Daily research report for 2026-09-06",
+  "preview": "Association between trauma exposure and mental health among adolescents with attention-deficit hyperactivity disorder.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Association between trauma exposure and mental health among adolescents with attention-deficit hyperactivity disorder.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Daily-life associations between posttraumatic stress disorder symptoms, affect, and posttrauma cognitions in the context of the processing of positive memories.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Post-trauma mental health in children and adolescents: phenomenology, aetiology and treatment.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Weight Stigma, Body Trust, and Suicide Ideation Among Adolescents: A Longitudinal Study.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
