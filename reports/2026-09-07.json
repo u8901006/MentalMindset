@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-09-07",
+  "preview": "Predicting longitudinal post-traumatic stress disorder symptoms using psychological measures and heart rate variability: a machine-learning approach.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Predicting longitudinal post-traumatic stress disorder symptoms using psychological measures and heart rate variability: a machine-learning approach.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Long-term impact of childhood exposure to interparental physical violence on cancer risk in adulthood: a prospective cohort study.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
