@@ -1,0 +1,41 @@
+{
+  "subject": "Daily research report for 2026-09-08",
+  "preview": "Despite the obstacles: consistent treatment effects for traumatized refugees regardless of asylum status change.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 5
+  },
+  "items": [
+    {
+      "title": "Despite the obstacles: consistent treatment effects for traumatized refugees regardless of asylum status change.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Prevalence and emotional valence of genital responses related to sexual abuse memories in patients with PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "War trauma and psychomotor developmental disorders in children aged 6-12 in Lubumbashi: a comparative study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Providing trauma-informed neurological care across clinical settings.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Resilience in traumatised youth: qualitative study on therapists' perspectives and practices.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
