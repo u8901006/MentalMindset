@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-09-09",
+  "preview": "The Hospital Anxiety and Depression Scale in People Living With HIV: A Validity Study in a Hard-to-Reach Population.",
+  "sources": {
+    "journals": [
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "The Hospital Anxiety and Depression Scale in People Living With HIV: A Validity Study in a Hard-to-Reach Population.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
