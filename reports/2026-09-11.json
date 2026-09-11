@@ -1,0 +1,42 @@
+{
+  "subject": "Daily research report for 2026-09-11",
+  "preview": "Associations of childhood maltreatment types and timing with oxidative stress in formerly out-of-home placed young adults.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 5
+  },
+  "items": [
+    {
+      "title": "Associations of childhood maltreatment types and timing with oxidative stress in formerly out-of-home placed young adults.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Guilt-related cognition and self-compassion could mediate the relation between coercive control and moral injury in women survivors of intimate partner violence.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Posttraumatic stress disorder in adolescents of Pakistan: 2 years following the 2022 torrential flood.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Scaling massed evidence-based psychotherapies for posttraumatic stress disorder through virtual intensive treatment: Preliminary evidence from a feasibility study.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Parental competence during war: Aspects of resilience and moral injury among body handlers and civilians in Israel.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
