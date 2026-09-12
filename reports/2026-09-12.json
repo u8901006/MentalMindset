@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-09-12",
+  "preview": "Psychometric properties of the Swedish version of the PTSD checklist for DSM-5 (PCL-5) in a mixed trauma sample - examining internal consistency, convergent validity, latent structure, and screening performance.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Psychometric properties of the Swedish version of the PTSD checklist for DSM-5 (PCL-5) in a mixed trauma sample - examining internal consistency, convergent validity, latent structure, and screening performance.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "'Family in shambles': professional perspectives on supporting families after sibling sexual abuse.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
