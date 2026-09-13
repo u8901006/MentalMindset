@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-09-13",
+  "preview": "Distant and Distressed: Interpersonal Problems in Anxiety and Depression.",
+  "sources": {
+    "journals": [
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Distant and Distressed: Interpersonal Problems in Anxiety and Depression.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "\"It All Exists Within Me\": A Qualitative Study Exploring Mental Health Service Experiences in Adults With Comorbid Eating Disorders and Emotionally Unstable Personality Disorder.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
