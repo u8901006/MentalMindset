@@ -1,0 +1,62 @@
+{
+  "subject": "Daily research report for 2026-09-15",
+  "preview": "Five-year outcomes in a randomised controlled trial of prolonged exposure therapy and supportive counselling for post-traumatic stress disorder in adolescents: a task-shifted intervention.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 10
+  },
+  "items": [
+    {
+      "title": "Five-year outcomes in a randomised controlled trial of prolonged exposure therapy and supportive counselling for post-traumatic stress disorder in adolescents: a task-shifted intervention.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Eye-tracking and cognitive patterns in post-traumatic stress disorder: a scoping review.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Post-traumatic stress disorder and adverse pregnancy and birth outcomes: a population-based study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Predicting longitudinal post-traumatic stress disorder symptoms using psychological measures and heart rate variability: a machine-learning approach.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Moral injury in Dutch treatment-seeking veterans: a latent profile analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Occupational trauma and probable PTSD among sworn and civilian police employees.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Supporting sexual assault disclosure: a qualitative study of women's experiences and preferences in gynaecological and midwifery care in the Netherlands.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The Nova Protocol: a comprehensive multimodal longitudinal study among civilian survivors of a mass trauma event.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Reductions in chronic pain cognitions and impact following intensive trauma and pain rehabilitation treatments: A case study.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Linguistic markers of interpretation bias in nontrauma narratives and associations with PTSD among sexual minority cisgender women, transgender men and women, and gender diverse people.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
