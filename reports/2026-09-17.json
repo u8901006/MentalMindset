@@ -1,0 +1,30 @@
+{
+  "subject": "Daily research report for 2026-09-17",
+  "preview": "Reimagining Voices: A Case-Based Exploration of Imagery-Enhanced Cognitive Behavioural Therapy for Distressing Voices (IE-CBTv).",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Reimagining Voices: A Case-Based Exploration of Imagery-Enhanced Cognitive Behavioural Therapy for Distressing Voices (IE-CBTv).",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Identifying differential interactions of potentially traumatic experiences with genetic risk for posttraumatic stress disorder.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
