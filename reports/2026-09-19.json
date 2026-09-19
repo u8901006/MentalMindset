@@ -1,0 +1,33 @@
+{
+  "subject": "Daily research report for 2026-09-19",
+  "preview": "Associations of childhood maltreatment types and timing with oxidative stress in formerly out-of-home placed young adults.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "Associations of childhood maltreatment types and timing with oxidative stress in formerly out-of-home placed young adults.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Differential contributions of PTSD symptom clusters and their associations with resilience in traumatized individuals with a refugee background.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Evaluation of the effectiveness of EMDR therapy for children and adolescents in Ukraine during war.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
