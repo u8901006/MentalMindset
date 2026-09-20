@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-09-20",
+  "preview": "'Family in shambles': professional perspectives on supporting families after sibling sexual abuse.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "'Family in shambles': professional perspectives on supporting families after sibling sexual abuse.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
