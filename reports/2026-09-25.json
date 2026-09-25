@@ -1,0 +1,30 @@
+{
+  "subject": "Daily research report for 2026-09-25",
+  "preview": "Identifying differential interactions of potentially traumatic experiences with genetic risk for posttraumatic stress disorder.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Identifying differential interactions of potentially traumatic experiences with genetic risk for posttraumatic stress disorder.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Trauma, personality, and depression among middle-aged and older adults during the COVID-19 pandemic.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
