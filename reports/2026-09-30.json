@@ -1,0 +1,45 @@
+{
+  "subject": "Daily research report for 2026-09-30",
+  "preview": "PTSD treatment impacts on pain: secondary analysis of sertraline, prolonged exposure, and their combination.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 6
+  },
+  "items": [
+    {
+      "title": "PTSD treatment impacts on pain: secondary analysis of sertraline, prolonged exposure, and their combination.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The burden of shame: PTSD symptoms and social support in Arabic-speaking women survivors of sexual violence.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Doing the groundwork at home, working through it together: patient experiences of blended cognitive therapy for PTSD in routine care.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The mediating role of personality functioning impairment between childhood maltreatment and adult mental health problems.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Prolonged exposure in routine outpatient care: a naturalistic study of feasibility, safety and effectiveness.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Understanding the interplay of social context and physiology on psychological outcomes in trauma-exposed adolescents: a protocol and baseline data report.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
