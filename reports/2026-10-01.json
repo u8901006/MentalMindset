@@ -1,0 +1,46 @@
+{
+  "subject": "Daily research report for 2026-10-01",
+  "preview": "Post-traumatic stress disorder and adverse pregnancy and birth outcomes: a population-based study.",
+  "sources": {
+    "journals": [
+      "Assessment",
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 6
+  },
+  "items": [
+    {
+      "title": "Post-traumatic stress disorder and adverse pregnancy and birth outcomes: a population-based study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Occupational trauma and probable PTSD among sworn and civilian police employees.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Supporting sexual assault disclosure: a qualitative study of women's experiences and preferences in gynaecological and midwifery care in the Netherlands.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Does exposure to potentially traumatic events moderate the longitudinal relationship between mental health and problematic media use? Moderated multiple mediation analyses within the ABCD study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Multiple Elevations on Symptom Validity Indicators Embedded in Psychopathology Screening Measures Improves Specificity When Classifying Invalid Symptom Overreporting.",
+      "journal": "Assessment"
+    },
+    {
+      "title": "The Nova Protocol: a comprehensive multimodal longitudinal study among civilian survivors of a mass trauma event.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
