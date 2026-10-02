@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-10-02",
+  "preview": "Distinguishing moral injury from burnout, secondary traumatic stress, and depression in animal care workers: A condition differentiation analysis.",
+  "sources": {
+    "journals": [
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Distinguishing moral injury from burnout, secondary traumatic stress, and depression in animal care workers: A condition differentiation analysis.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
