@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-10-04",
+  "preview": "Left Write Hook: proof of concept for a survivor-designed, and peer-led programme incorporating expressive writing and boxing to support mental health in adult survivors of child sexual abuse.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Left Write Hook: proof of concept for a survivor-designed, and peer-led programme incorporating expressive writing and boxing to support mental health in adult survivors of child sexual abuse.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Moral injury in Dutch treatment-seeking veterans: a latent profile analysis.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
