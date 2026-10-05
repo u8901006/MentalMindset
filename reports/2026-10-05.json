@@ -1,0 +1,33 @@
+{
+  "subject": "Daily research report for 2026-10-05",
+  "preview": "Systematic review and meta-analysis: the effectiveness of cognitive behavioral therapy and eye movement desensitization and reprocessing in children and adolescents.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "Systematic review and meta-analysis: the effectiveness of cognitive behavioral therapy and eye movement desensitization and reprocessing in children and adolescents.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Childhood peer abuse moderates associations of inflammation and cortisol with subcortical brain volume.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Mental health and somatic symptom reductions during Ukraine's counteroffensive in the fall of 2023.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
