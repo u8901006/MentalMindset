@@ -1,0 +1,45 @@
+{
+  "subject": "Daily research report for 2026-10-07",
+  "preview": "Project Harmony 2.0: protocol for an updated and expanded individual patient data meta-analysis and virtual clinical trial of treatments for comorbid PTSD and substance use disorders.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 6
+  },
+  "items": [
+    {
+      "title": "Project Harmony 2.0: protocol for an updated and expanded individual patient data meta-analysis and virtual clinical trial of treatments for comorbid PTSD and substance use disorders.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Prevalence of exposure to lifetime and war-related traumas, PTSD and complex PTSD in a sample from the Ukrainian general population.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Racial discrimination, racial trauma, and complex post-traumatic stress disorder: the role of emotion dysregulation as a mediating factor in Black, African, and Afrodiasporic people in Germany.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "FKBP5 methylation, temperament, and chronotype in adolescent posttraumatic stress disorder: a preliminary case-control study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Assessing coercive control in intimate partner relationships: psychometric validation and clinical thresholds of a French version of the Coercive Control Screening Scale (CCSS-F).",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Helping or controlling? A multi-method case study of a mother-daughter dyad and their interactions during trauma-focused therapy.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
