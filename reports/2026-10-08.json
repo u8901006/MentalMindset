@@ -1,0 +1,58 @@
+{
+  "subject": "Daily research report for 2026-10-08",
+  "preview": "PTSD treatment impacts on pain: secondary analysis of sertraline, prolonged exposure, and their combination.",
+  "sources": {
+    "journals": [
+      "Assessment",
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 9
+  },
+  "items": [
+    {
+      "title": "PTSD treatment impacts on pain: secondary analysis of sertraline, prolonged exposure, and their combination.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Co-creating and testing a bibliotherapy e-storybook for children coping with parental complex post-traumatic stress disorder.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The burden of shame: PTSD symptoms and social support in Arabic-speaking women survivors of sexual violence.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Doing the groundwork at home, working through it together: patient experiences of blended cognitive therapy for PTSD in routine care.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Pathways from adverse childhood experiences to parenting competence: the roles of cognitive emotional regulation and social support.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The mediating role of personality functioning impairment between childhood maltreatment and adult mental health problems.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Intergenerational childhood trauma: associations by subtype across two generations in a longitudinal Barbados birth cohort.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The Psychometric Properties and Sensitivity to Change of the Level of Personality Functioning Scale-Brief Form 2.0 in a Large Naturalistic Psychiatric Sample.",
+      "journal": "Assessment"
+    },
+    {
+      "title": "Understanding the interplay of social context and physiology on psychological outcomes in trauma-exposed adolescents: a protocol and baseline data report.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
