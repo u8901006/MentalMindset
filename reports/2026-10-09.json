@@ -1,0 +1,33 @@
+{
+  "subject": "Daily research report for 2026-10-09",
+  "preview": "Brief internet intervention for grieving children and adolescents: co-design and trial protocol.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "Brief internet intervention for grieving children and adolescents: co-design and trial protocol.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Does exposure to potentially traumatic events moderate the longitudinal relationship between mental health and problematic media use? Moderated multiple mediation analyses within the ABCD study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Institutional betrayal and posttraumatic adaptation among Nova festival survivors following the 7 October 2023 attack.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
