@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-10-14",
+  "preview": "Eye Movement Desensitisation and Reprocessing (EMDR) for ICU-related psychological distress among adult intensive care survivors: a scoping review.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Eye Movement Desensitisation and Reprocessing (EMDR) for ICU-related psychological distress among adult intensive care survivors: a scoping review.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
