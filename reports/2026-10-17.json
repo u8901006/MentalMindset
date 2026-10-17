@@ -1,0 +1,37 @@
+{
+  "subject": "Daily research report for 2026-10-17",
+  "preview": "PTSD treatment impacts on pain: secondary analysis of sertraline, prolonged exposure, and their combination.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "PTSD treatment impacts on pain: secondary analysis of sertraline, prolonged exposure, and their combination.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Brief internet intervention for grieving children and adolescents: co-design and trial protocol.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Institutional betrayal and posttraumatic adaptation among Nova festival survivors following the 7 October 2023 attack.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Understanding the interplay of social context and physiology on psychological outcomes in trauma-exposed adolescents: a protocol and baseline data report.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
