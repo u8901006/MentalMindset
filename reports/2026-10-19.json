@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-10-19",
+  "preview": "Written exposure therapy augmented with transcranial direct current stimulation for posttraumatic stress disorder: A pilot randomized clinical trial.",
+  "sources": {
+    "journals": [
+      "Journal of traumatic stress"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Written exposure therapy augmented with transcranial direct current stimulation for posttraumatic stress disorder: A pilot randomized clinical trial.",
+      "journal": "Journal of traumatic stress"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
