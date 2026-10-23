@@ -1,0 +1,50 @@
+{
+  "subject": "Daily research report for 2026-10-23",
+  "preview": "Psychosocial interventions for adult survivors and responders exposed to mass casualty events: A systematic review and network meta-analysis.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of traumatic stress"
+    ],
+    "selected_count": 7
+  },
+  "items": [
+    {
+      "title": "Psychosocial interventions for adult survivors and responders exposed to mass casualty events: A systematic review and network meta-analysis.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "State violence, protest suppression, and trauma outcomes: a scoping review of cumulative exposure across different political contexts.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Adolescents' positive and negative reactions to participation in trauma-focused research and their associations with PTSD and complex PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Treating trauma, not autism: a critical response to Te Hennepe et al. (2026).",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "When words reveal risk: a mixed-method study on autobiographical narratives of breast biopsy results disclosure as early markers of psychological distress.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Germany's Verschickungskinder: parent-child separation and mental health.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Training community providers in prolonged exposure: outcomes of a French consultation programme.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
