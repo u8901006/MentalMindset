@@ -1,0 +1,46 @@
+{
+  "subject": "Daily research report for 2026-10-24",
+  "preview": "Effectiveness of psychosocial interventions addressing informal caregivers' mental health: an umbrella systematic review with 26,481 participants.",
+  "sources": {
+    "journals": [
+      "Clinical psychology review",
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 6
+  },
+  "items": [
+    {
+      "title": "Effectiveness of psychosocial interventions addressing informal caregivers' mental health: an umbrella systematic review with 26,481 participants.",
+      "journal": "Clinical psychology review"
+    },
+    {
+      "title": "Psychoeducational interventions for children and adolescents with potentially traumatic experiences: a systematic review.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Co-creating and testing a bibliotherapy e-storybook for children coping with parental complex post-traumatic stress disorder.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Pathways from adverse childhood experiences to parenting competence: the roles of cognitive emotional regulation and social support.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Response to 'Treating trauma, not autism: a critical response to Te Hennepe et al. (2026)'.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Temporal dynamics of grief reactions in a Canadian bereaved sample.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
