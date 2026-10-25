@@ -1,0 +1,37 @@
+{
+  "subject": "Daily research report for 2026-10-25",
+  "preview": "Psychoeducation for posttraumatic stress disorder in adults: a systematic review of formats and delivery approaches.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Psychoeducation for posttraumatic stress disorder in adults: a systematic review of formats and delivery approaches.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Psychopathological and neuropsychological sequelae in children victimised by intimate partner violence: a clinical case series.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Silent scars: psychopathology networks across cumulative childhood trauma exposure and the role of shame about eating.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "War exposure, evacuation, and psychological and behavioural outcomes following a large-scale traumatic event.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
