@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-10-26",
+  "preview": "The Association Between Cognitive Flexibility and Eating Behaviors in Autistic Women With Eating Disorders.",
+  "sources": {
+    "journals": [
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "The Association Between Cognitive Flexibility and Eating Behaviors in Autistic Women With Eating Disorders.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
