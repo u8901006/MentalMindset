@@ -1,0 +1,38 @@
+{
+  "subject": "Daily research report for 2026-10-27",
+  "preview": "How adverse childhood experiences affect the association between chronic condition progression and subjective or objective cognitive function among rural older adults?",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "How adverse childhood experiences affect the association between chronic condition progression and subjective or objective cognitive function among rural older adults?",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Risk and protective factors for posttraumatic stress disorder among Israeli civilians in the aftermath of 7 October: the TERUMAH (Trauma, Civic Engagement, Resilience and Health) study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Indicators of mental health among U.S. military service members with eating disorders with and without co-occurring trauma-related diagnoses.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Investigating the association between pretraumatic and peritraumatic factors and posttraumatic cognitions in first responders: A machine learning analysis.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
