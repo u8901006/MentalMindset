@@ -1,0 +1,45 @@
+{
+  "subject": "Daily research report for 2026-10-29",
+  "preview": "Complex post-traumatic stress disorder in refugees, asylum seekers, and internally displaced people: a systematic review and meta-analysis.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 6
+  },
+  "items": [
+    {
+      "title": "Complex post-traumatic stress disorder in refugees, asylum seekers, and internally displaced people: a systematic review and meta-analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Investigating the role of drama-based strategies in addressing psychological trauma: a systematic review.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "An intervention mapping study to adapt trauma-focused social adjustment therapy for adolescents with trauma-related interpersonal difficulties.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Investigating the relationship between childhood interpersonal traumatic experiences and appraisals, belonging, shame, and dissociation.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Addressing heterogeneity in trauma responses in research and clinical practice: reflections and recommendations from early career researchers.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The impact of racist events on post-trauma mental health symptoms among immigrants and refugees in Canada: the role of racial trauma.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
