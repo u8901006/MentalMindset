@@ -1,0 +1,35 @@
+{
+  "subject": "Daily research report for 2026-10-30",
+  "preview": "Evaluating large language models versus human therapists in generating interventions for patients with depression in psychodynamic psychotherapy.",
+  "sources": {
+    "journals": [
+      "Assessment",
+      "Journal of consulting and clinical psychology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "Evaluating large language models versus human therapists in generating interventions for patients with depression in psychodynamic psychotherapy.",
+      "journal": "Journal of consulting and clinical psychology"
+    },
+    {
+      "title": "Artificial Intelligence in Autism Assessment: A Conceptual Framework for Multimodal Artificial Intelligence Integration.",
+      "journal": "Assessment"
+    },
+    {
+      "title": "A qualitative exploratory study of pathways to moral repair and moral injury in U.S. veterans.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
