@@ -1,0 +1,54 @@
+{
+  "subject": "Daily research report for 2026-10-31",
+  "preview": "State violence, protest suppression, and trauma outcomes: a scoping review of cumulative exposure across different political contexts.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of traumatic stress"
+    ],
+    "selected_count": 8
+  },
+  "items": [
+    {
+      "title": "State violence, protest suppression, and trauma outcomes: a scoping review of cumulative exposure across different political contexts.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Adolescents' positive and negative reactions to participation in trauma-focused research and their associations with PTSD and complex PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Examining the multivariate genetic architectures of posttraumatic stress disorder and cardiovascular disease phenotypes.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Treating trauma, not autism: a critical response to Te Hennepe et al. (2026).",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "When words reveal risk: a mixed-method study on autobiographical narratives of breast biopsy results disclosure as early markers of psychological distress.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Germany's Verschickungskinder: parent-child separation and mental health.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Psychometric properties of a DTD self-report scale among Portuguese adolescents from the community.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Training community providers in prolonged exposure: outcomes of a French consultation programme.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
