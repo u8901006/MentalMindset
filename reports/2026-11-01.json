@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-11-01",
+  "preview": "Response to 'Treating trauma, not autism: a critical response to Te Hennepe et al. (2026)'.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Response to 'Treating trauma, not autism: a critical response to Te Hennepe et al. (2026)'.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Temporal dynamics of grief reactions in a Canadian bereaved sample.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
