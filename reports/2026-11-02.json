@@ -1,0 +1,62 @@
+{
+  "subject": "Daily research report for 2026-11-02",
+  "preview": "Psychoeducation for posttraumatic stress disorder in adults: a systematic review of formats and delivery approaches.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of traumatic stress"
+    ],
+    "selected_count": 10
+  },
+  "items": [
+    {
+      "title": "Psychoeducation for posttraumatic stress disorder in adults: a systematic review of formats and delivery approaches.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Understanding posttraumatic growth after suicide bereavement: the impact of coping style and reflective functioning.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Validating measures of posttraumatic stress, depression, and anxiety screening among conflict-affected internally displaced persons in Nigeria.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Childhood trauma and borderline personality disorder features: a moderated-mediation model of rejection sensitivity and experiential avoidance.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Personality structure mediates the impact of childhood adversity on psychopathology in adolescents with personality disorder.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Psychopathological and neuropsychological sequelae in children victimised by intimate partner violence: a clinical case series.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Psychosocial pathways linking PTSD and DSO symptoms to somatic symptoms among female North Korean defectors.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Psychological responses to armed conflict among university students: the Kabul University attack.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Silent scars: psychopathology networks across cumulative childhood trauma exposure and the role of shame about eating.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "War exposure, evacuation, and psychological and behavioural outcomes following a large-scale traumatic event.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
