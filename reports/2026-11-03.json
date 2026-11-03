@@ -1,0 +1,50 @@
+{
+  "subject": "Daily research report for 2026-11-03",
+  "preview": "Pharmacological treatment of bereavement-related distress: a systematic review.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 7
+  },
+  "items": [
+    {
+      "title": "Pharmacological treatment of bereavement-related distress: a systematic review.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Depression burden and differential treatment effects in PTSD and substance use disorder comorbidity: findings from Project Harmony.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Young people's experiences of receiving therapist-supported online cognitive therapy for post-traumatic stress disorder.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Functional impairment associated with post-traumatic stress symptoms in trauma-exposed children and adolescents: a qualitative study of everyday difficulties across life domains.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "From interpersonal trauma to psychopathology: Self-compassion and shame in a sequential mediation model.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Psychometric properties of the International Trauma Questionnaire-Child and Adolescent Version (ITQ-CA) among Portuguese adolescents from the community.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Retrospective exploratory mixed methods study on the implementation of reconsolidation therapy among exiled patients.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
