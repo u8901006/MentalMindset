@@ -1,0 +1,50 @@
+{
+  "subject": "Daily research report for 2026-11-04",
+  "preview": "Culture, connection, and prolonged grief: a cross-sectional study of social networks and interpersonal emotion regulation after loss.",
+  "sources": {
+    "journals": [
+      "Assessment",
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 7
+  },
+  "items": [
+    {
+      "title": "Culture, connection, and prolonged grief: a cross-sectional study of social networks and interpersonal emotion regulation after loss.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "How social media-induced secondary traumatic stress affects depression: a moderated mediation model of self-compassion and problematic social media use in college students.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Schema therapy for Dissociative Identity Disorder (DID): a repeated case series.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "How adverse childhood experiences affect the association between chronic condition progression and subjective or objective cognitive function among rural older adults?",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Risk and protective factors for posttraumatic stress disorder among Israeli civilians in the aftermath of 7 October: the TERUMAH (Trauma, Civic Engagement, Resilience and Health) study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Measurement Invariance of the Adult Self-Report Across Sex and Ethnoracial Status in the Adolescent Brain Cognitive Development Study.",
+      "journal": "Assessment"
+    },
+    {
+      "title": "Moral injury, perceived burdensomeness, thwarted belongingness, and suicidal ideation in post-9/11 US combat veterans.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
