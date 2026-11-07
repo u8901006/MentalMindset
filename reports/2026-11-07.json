@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-11-07",
+  "preview": "Sense of coherence is associated with ICD-11 complex PTSD among North Korean defectors.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Sense of coherence is associated with ICD-11 complex PTSD among North Korean defectors.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
