@@ -1,0 +1,25 @@
+{
+  "subject": "Daily research report for 2026-11-08",
+  "preview": "Psychometric properties of a DTD self-report scale among Portuguese adolescents from the community.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 1
+  },
+  "items": [
+    {
+      "title": "Psychometric properties of a DTD self-report scale among Portuguese adolescents from the community.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
