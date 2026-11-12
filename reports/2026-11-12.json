@@ -1,0 +1,57 @@
+{
+  "subject": "Daily research report for 2026-11-12",
+  "preview": "Culture, connection, and prolonged grief: a cross-sectional study of social networks and interpersonal emotion regulation after loss.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 9
+  },
+  "items": [
+    {
+      "title": "Culture, connection, and prolonged grief: a cross-sectional study of social networks and interpersonal emotion regulation after loss.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "How social media-induced secondary traumatic stress affects depression: a moderated mediation model of self-compassion and problematic social media use in college students.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Measurement invariance of the Clinician Administered PTSD Scale for DSM-5 between trauma-exposed non-Western refugee patients and Dutch patients seeking treatment for PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Schema therapy for Dissociative Identity Disorder (DID): a repeated case series.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "ID-SCAN: a functional MRI protocol for neurophenomenological phenotyping of dissociative identity disorder without trauma provocation.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Sensory responsiveness as a moderator of the association between cumulative trauma exposure and dissociation: a cross-sectional study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Moral injury, perceived burdensomeness, thwarted belongingness, and suicidal ideation in post-9/11 US combat veterans.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Potentially modifiable mediators of the association between child abuse and dementia.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Resilience and vulnerability factors for post-traumatic symptoms among Israeli adults: the aftermath of 7 October events.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
