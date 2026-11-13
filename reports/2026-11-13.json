@@ -1,0 +1,38 @@
+{
+  "subject": "Daily research report for 2026-11-13",
+  "preview": "Written exposure therapy for post-traumatic stress disorder in individuals with emergent psychosis: a case series.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Psychological trauma : theory, research, practice and policy"
+    ],
+    "selected_count": 4
+  },
+  "items": [
+    {
+      "title": "Written exposure therapy for post-traumatic stress disorder in individuals with emergent psychosis: a case series.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Differentiating risk and maintaining factors of posttraumatic stress and prolonged grief in the aftermath of death: A longitudinal study on traumatic loss.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Posttraumatic stress disorder and racism-based traumatic stress: Not one and the same.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    },
+    {
+      "title": "Understanding the impact of racism in Canada using the Racial Trauma Scale.",
+      "journal": "Psychological trauma : theory, research, practice and policy"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
