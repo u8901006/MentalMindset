@@ -1,0 +1,30 @@
+{
+  "subject": "Daily research report for 2026-11-15",
+  "preview": "Cognitive-behavioral conjoint therapy for posttraumatic stress disorder: A systematic review of outcomes, mechanisms, and clinical applications.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of traumatic stress"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Cognitive-behavioral conjoint therapy for posttraumatic stress disorder: A systematic review of outcomes, mechanisms, and clinical applications.",
+      "journal": "Journal of traumatic stress"
+    },
+    {
+      "title": "Sense of coherence is associated with ICD-11 complex PTSD among North Korean defectors.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
