@@ -1,0 +1,58 @@
+{
+  "subject": "Daily research report for 2026-11-18",
+  "preview": "Childhood trauma, post-traumatic stress disorder, and age at onset in adult separation anxiety disorder: a cross-sectional outpatient study.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology"
+    ],
+    "selected_count": 9
+  },
+  "items": [
+    {
+      "title": "Childhood trauma, post-traumatic stress disorder, and age at onset in adult separation anxiety disorder: a cross-sectional outpatient study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The pen-and-paper tube figures mental rotation task for patients with trauma-related disorders: a randomized controlled trial.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "A meta-analysis on the prevalence of parents' complicated grief and post-traumatic stress disorder following perinatal loss in East and Southeast Asia.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Mentalization in Older People as a Function of Trauma and Somatic Stress.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Strengthening ties in the face of trauma: a study protocol for a naturalistic observation study of parent-child communication in refugee families' daily lives.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Targeting and Tracking Personality Functioning in Psychotherapy: A Clinical Case Using the Diagnostic Interview for Personality Pathology Based on ICD-11 (DIPP-11).",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Posttraumatic symptoms and religious/spiritual struggles in Russian Orthodox women: a network analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Subjective Experience of a Severe Mental Disorder: A Qualitative Study of Siblings' Perspectives.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "The VaLuE Study: A Grounded Theory of What It Means to 'Value' the Lived/Live Experience of Mental Health Difficulties Amongst Clinical Psychology Doctoral Trainees.",
+      "journal": "Journal of clinical psychology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
