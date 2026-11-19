@@ -1,0 +1,33 @@
+{
+  "subject": "Daily research report for 2026-11-19",
+  "preview": "Non-pharmacological augmentation of trauma-focused psychotherapy for PTSD: a systematic review and meta-analysis.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "Non-pharmacological augmentation of trauma-focused psychotherapy for PTSD: a systematic review and meta-analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Depression burden and differential treatment effects in PTSD and substance use disorder comorbidity: findings from Project Harmony.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Functional impairment associated with post-traumatic stress symptoms in trauma-exposed children and adolescents: a qualitative study of everyday difficulties across life domains.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
