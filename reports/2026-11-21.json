@@ -1,0 +1,29 @@
+{
+  "subject": "Daily research report for 2026-11-21",
+  "preview": "Written exposure therapy for post-traumatic stress disorder in individuals with emergent psychosis: a case series.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 2
+  },
+  "items": [
+    {
+      "title": "Written exposure therapy for post-traumatic stress disorder in individuals with emergent psychosis: a case series.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Dynamic associations between received social support, PTSD, and depressive symptoms during post-burn recovery.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
