@@ -1,0 +1,33 @@
+{
+  "subject": "Daily research report for 2026-11-25",
+  "preview": "Reading Between the Lines: Artificial Intelligence as an Amplifier of Narrative Assessment in Psychological Research and Practice.",
+  "sources": {
+    "journals": [
+      "Assessment"
+    ],
+    "selected_count": 3
+  },
+  "items": [
+    {
+      "title": "Reading Between the Lines: Artificial Intelligence as an Amplifier of Narrative Assessment in Psychological Research and Practice.",
+      "journal": "Assessment"
+    },
+    {
+      "title": "Not So 'On the Nose': Adequacy of Dimensional Trait Nosologies in Capturing DSM Section II Obsessive-Compulsive Personality Disorder Criteria.",
+      "journal": "Assessment"
+    },
+    {
+      "title": "The Ecological Momentary Assessment of Broad Depressive and Anxiety Symptoms.",
+      "journal": "Assessment"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
