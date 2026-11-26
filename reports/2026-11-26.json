@@ -1,0 +1,41 @@
+{
+  "subject": "Daily research report for 2026-11-26",
+  "preview": "Childhood trauma, post-traumatic stress disorder, and age at onset in adult separation anxiety disorder: a cross-sectional outpatient study.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 5
+  },
+  "items": [
+    {
+      "title": "Childhood trauma, post-traumatic stress disorder, and age at onset in adult separation anxiety disorder: a cross-sectional outpatient study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "The pen-and-paper tube figures mental rotation task for patients with trauma-related disorders: a randomized controlled trial.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "A meta-analysis on the prevalence of parents' complicated grief and post-traumatic stress disorder following perinatal loss in East and Southeast Asia.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Strengthening ties in the face of trauma: a study protocol for a naturalistic observation study of parent-child communication in refugee families' daily lives.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Posttraumatic symptoms and religious/spiritual struggles in Russian Orthodox women: a network analysis.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
