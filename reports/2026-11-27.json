@@ -1,0 +1,44 @@
+{
+  "subject": "Daily research report for 2026-11-27",
+  "preview": "Non-pharmacological augmentation of trauma-focused psychotherapy for PTSD: a systematic review and meta-analysis.",
+  "sources": {
+    "journals": [
+      "Clinical psychology review",
+      "European journal of psychotraumatology",
+      "Journal of clinical psychology",
+      "Journal of traumatic stress"
+    ],
+    "selected_count": 5
+  },
+  "items": [
+    {
+      "title": "Non-pharmacological augmentation of trauma-focused psychotherapy for PTSD: a systematic review and meta-analysis.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Randomized controlled trials evaluating generative artificial intelligence-enabled mental health interventions among samples with clinically significant baseline symptoms: a systematic review and narrative synthesis.",
+      "journal": "Clinical psychology review"
+    },
+    {
+      "title": "From evidence to systems: A roadmap for scaling evidence-based psychological interventions via task-sharing across global contexts.",
+      "journal": "Clinical psychology review"
+    },
+    {
+      "title": "Implementing a Mental Imagery Micro-Intervention to Improve Cognitive Behavioral Therapy Sessions: A Randomized Controlled Trial.",
+      "journal": "Journal of clinical psychology"
+    },
+    {
+      "title": "Polypharmacy patterns among Australian Defence Force veterans with posttraumatic stress disorder indicate long-term and complex medication use.",
+      "journal": "Journal of traumatic stress"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
