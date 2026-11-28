@@ -1,0 +1,45 @@
+{
+  "subject": "Daily research report for 2026-11-28",
+  "preview": "Measurement invariance of the Clinician Administered PTSD Scale for DSM-5 between trauma-exposed non-Western refugee patients and Dutch patients seeking treatment for PTSD.",
+  "sources": {
+    "journals": [
+      "European journal of psychotraumatology"
+    ],
+    "selected_count": 6
+  },
+  "items": [
+    {
+      "title": "Measurement invariance of the Clinician Administered PTSD Scale for DSM-5 between trauma-exposed non-Western refugee patients and Dutch patients seeking treatment for PTSD.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "ID-SCAN: a functional MRI protocol for neurophenomenological phenotyping of dissociative identity disorder without trauma provocation.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Sensory responsiveness as a moderator of the association between cumulative trauma exposure and dissociation: a cross-sectional study.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Those who fought together: processing war in a retreat toward posttraumatic growth.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Potentially modifiable mediators of the association between child abuse and dementia.",
+      "journal": "European journal of psychotraumatology"
+    },
+    {
+      "title": "Resilience and vulnerability factors for post-traumatic symptoms among Israeli adults: the aftermath of 7 October events.",
+      "journal": "European journal of psychotraumatology"
+    }
+  ],
+  "delivery": {
+    "email": {
+      "enabled": false,
+      "to": []
+    },
+    "push": {
+      "enabled": false
+    }
+  }
+}
